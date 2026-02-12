@@ -1,0 +1,1261 @@
+{
+    "id": 1,
+    "title": "Selamat Tahun Baru Imlek!",
+    "subtitle": "Happy Chinese New Year!",
+    "sections": [
+        {
+            "id": "1.1",
+            "type": "lesson",
+            "title": "Tiba di Jakarta",
+            "titleEn": "Arriving in Jakarta",
+            "content": {
+                "intro": "Danny arrives in Jakarta to stay with Adi's family for a year. Let's learn some basic Indonesian sentences about arrivals and introductions.",
+                "sentences": [
+                    {
+                        "id": "Danny tiba di Jakarta naik GA700.",
+                        "en": "Danny is arriving in Jakarta on flight GA700."
+                    },
+                    {
+                        "id": "Dia akan tinggal bersama Adi dan keluarganya selama setahun.",
+                        "en": "He will be staying with Adi and his family for a year."
+                    },
+                    {
+                        "id": "Adi tinggal di Bintaro.",
+                        "en": "Adi lives in Bintaro."
+                    },
+                    {
+                        "id": "Bintaro di Jakarta Selatan.",
+                        "en": "Bintaro is in South Jakarta."
+                    }
+                ],
+                "grammar": {
+                    "title": "Indonesian Word Order",
+                    "explanation": "Indonesian sentence order is much like English: Subject → Verb → Predicate. However, adjectives come AFTER the noun (unlike English).",
+                    "examples": [
+                        {
+                            "id": "Saya tinggal di Indonesia.",
+                            "en": "I live in Indonesia.",
+                            "note": "Subject + Verb + Predicate"
+                        },
+                        {
+                            "id": "Nama saya Danny.",
+                            "en": "My name is Danny.",
+                            "note": "Noun + Possessive (adjective after noun)"
+                        },
+                        {
+                            "id": "Jakarta Selatan",
+                            "en": "South Jakarta",
+                            "note": "Noun + Adjective (not 'Selatan Jakarta')"
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "tiba",
+                    "meaning": "arrive"
+                },
+                {
+                    "word": "di",
+                    "meaning": "at, in"
+                },
+                {
+                    "word": "naik",
+                    "meaning": "ride, go on"
+                },
+                {
+                    "word": "dia",
+                    "meaning": "he, she, it"
+                },
+                {
+                    "word": "akan",
+                    "meaning": "will"
+                },
+                {
+                    "word": "tinggal",
+                    "meaning": "live"
+                },
+                {
+                    "word": "bersama",
+                    "meaning": "together"
+                },
+                {
+                    "word": "dan",
+                    "meaning": "and"
+                },
+                {
+                    "word": "keluarga",
+                    "meaning": "family"
+                },
+                {
+                    "word": "selama",
+                    "meaning": "during"
+                },
+                {
+                    "word": "setahun",
+                    "meaning": "a year"
+                }
+            ]
+        },
+        {
+            "id": "1.2",
+            "type": "lesson",
+            "title": "Tiba di rumah Adi",
+            "titleEn": "Arriving at Adi's house",
+            "audio": "Unit 1 p 5 p 21 Dialogue Nina dan Danny.mp3",
+            "content": {
+                "intro": "Danny arrives at Adi's house and introduces himself to the family.",
+                "sentences": [
+                    {
+                        "id": "Nama saya Danny.",
+                        "en": "My name is Danny."
+                    },
+                    {
+                        "id": "Umur saya delapan belas tahun.",
+                        "en": "I am 18 years old."
+                    },
+                    {
+                        "id": "Saya berasal dari Australia.",
+                        "en": "I come from Australia."
+                    },
+                    {
+                        "id": "Saya tinggal di Perth.",
+                        "en": "I live in Perth."
+                    },
+                    {
+                        "id": "Saya tiga bersaudara.",
+                        "en": "I am one of three children."
+                    },
+                    {
+                        "id": "Saya mahasiswa. Saya kuliah di Universitas Curtin.",
+                        "en": "I am a university student at Curtin University."
+                    }
+                ],
+                "dialogue": [
+                    {
+                        "speaker": "NINA",
+                        "id": "Halo, siapa namanya?",
+                        "en": "Hello, what's your name?"
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Nama saya Danny.",
+                        "en": "My name is Danny."
+                    },
+                    {
+                        "speaker": "NINA",
+                        "id": "Apa kabar?",
+                        "en": "How are you?"
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Baik-baik saja.",
+                        "en": "Just fine."
+                    },
+                    {
+                        "speaker": "NINA",
+                        "id": "Danny berasal dari mana?",
+                        "en": "Where do you come from, Danny?"
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Saya berasal dari Australia.",
+                        "en": "I come from Australia."
+                    },
+                    {
+                        "speaker": "NINA",
+                        "id": "Bersaudara berapa?",
+                        "en": "How many siblings do you have?"
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Tiga bersaudara.",
+                        "en": "Three siblings."
+                    },
+                    {
+                        "speaker": "NINA",
+                        "id": "Nina kelas berapa?",
+                        "en": "What class are you in, Nina?"
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Saya di kelas III SMP.",
+                        "en": "I'm in third grade, junior high school."
+                    },
+                    {
+                        "speaker": "NINA",
+                        "id": "Nina belajar apa?",
+                        "en": "What do you study, Nina?"
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Saya belajar Bahasa Inggris.",
+                        "en": "I study English."
+                    }
+                ],
+                "grammar": {
+                    "title": "Using -nya for possession",
+                    "explanation": "In spoken Indonesian, attach -nya ('his,' 'her,' 'their') to nouns to show possession. It's an informal way of saying 'to be named' or 'to be titled.'",
+                    "examples": [
+                        {
+                            "id": "Namanya Danny.",
+                            "en": "His name is Danny."
+                        },
+                        {
+                            "id": "Saudaranya banyak.",
+                            "en": "She has lots of brothers and sisters."
+                        },
+                        {
+                            "id": "Siapa namanya?",
+                            "en": "What's your name? (lit., 'the name')"
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "nama",
+                    "meaning": "name"
+                },
+                {
+                    "word": "saya",
+                    "meaning": "I, me, my"
+                },
+                {
+                    "word": "umur",
+                    "meaning": "age"
+                },
+                {
+                    "word": "tahun",
+                    "meaning": "year"
+                },
+                {
+                    "word": "berasal",
+                    "meaning": "to come from"
+                },
+                {
+                    "word": "dari",
+                    "meaning": "from"
+                },
+                {
+                    "word": "bersaudara",
+                    "meaning": "to have siblings"
+                },
+                {
+                    "word": "mahasiswa",
+                    "meaning": "university student"
+                },
+                {
+                    "word": "kuliah",
+                    "meaning": "to go to university"
+                },
+                {
+                    "word": "halo",
+                    "meaning": "hello"
+                },
+                {
+                    "word": "siapa",
+                    "meaning": "who"
+                },
+                {
+                    "word": "-nya",
+                    "meaning": "his, her, its, the"
+                },
+                {
+                    "word": "apa kabar?",
+                    "meaning": "how are you?"
+                },
+                {
+                    "word": "baik-baik saja",
+                    "meaning": "just fine"
+                },
+                {
+                    "word": "mana",
+                    "meaning": "where"
+                },
+                {
+                    "word": "berapa",
+                    "meaning": "how many?"
+                },
+                {
+                    "word": "kelas",
+                    "meaning": "class, year, grade"
+                },
+                {
+                    "word": "belajar",
+                    "meaning": "to study, learn"
+                },
+                {
+                    "word": "bahasa",
+                    "meaning": "language"
+                },
+                {
+                    "word": "ayo",
+                    "meaning": "come on, let's"
+                }
+            ]
+        },
+        {
+            "id": "1.3",
+            "type": "lesson",
+            "title": "Keluarga Adi",
+            "titleEn": "Adi's Family",
+            "content": {
+                "intro": "Let's learn about Adi's family, numbers, and how to talk about family members in Indonesian.",
+                "sentences": [
+                    {
+                        "id": "Suriadi Wulandaru berumur 17 tahun.",
+                        "en": "Suriadi Wulandaru (Adi) is 17 years old."
+                    },
+                    {
+                        "id": "Dia lahir di Jakarta dan tinggal di Bintaro.",
+                        "en": "He was born in Jakarta and lives in Bintaro."
+                    },
+                    {
+                        "id": "Adi empat bersaudara: kakaknya dua, Hari dan Sena, dan adiknya satu, Nina.",
+                        "en": "Adi is one of four children: two older siblings and a younger sister, Nina."
+                    },
+                    {
+                        "id": "Ibunya Adi orang Sunda.",
+                        "en": "Adi's mother is Sundanese."
+                    },
+                    {
+                        "id": "Ayahnya orang keturunan Tionghoa.",
+                        "en": "His father is of Chinese descent."
+                    }
+                ],
+                "grammar": {
+                    "title": "Numbers 1–10",
+                    "explanation": "Indonesian numbers are simple and logical. All numbers from 11 to 100 are built on 1-10. To make 'teen' numbers, add 'belas' after the number.",
+                    "examples": [
+                        {
+                            "id": "satu, dua, tiga, empat, lima",
+                            "en": "1, 2, 3, 4, 5"
+                        },
+                        {
+                            "id": "enam, tujuh, delapan, sembilan, sepuluh",
+                            "en": "6, 7, 8, 9, 10"
+                        },
+                        {
+                            "id": "Danny delapan belas tahun.",
+                            "en": "Danny is eighteen years old.",
+                            "note": "delapan (8) + belas = 18"
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "ibu",
+                    "meaning": "mother"
+                },
+                {
+                    "word": "ayah",
+                    "meaning": "father"
+                },
+                {
+                    "word": "kakak",
+                    "meaning": "older sibling"
+                },
+                {
+                    "word": "adik",
+                    "meaning": "younger sibling"
+                },
+                {
+                    "word": "lahir",
+                    "meaning": "born"
+                },
+                {
+                    "word": "berumur",
+                    "meaning": "aged"
+                },
+                {
+                    "word": "satu",
+                    "meaning": "one"
+                },
+                {
+                    "word": "dua",
+                    "meaning": "two"
+                },
+                {
+                    "word": "tiga",
+                    "meaning": "three"
+                },
+                {
+                    "word": "empat",
+                    "meaning": "four"
+                },
+                {
+                    "word": "lima",
+                    "meaning": "five"
+                },
+                {
+                    "word": "enam",
+                    "meaning": "six"
+                },
+                {
+                    "word": "tujuh",
+                    "meaning": "seven"
+                },
+                {
+                    "word": "delapan",
+                    "meaning": "eight"
+                },
+                {
+                    "word": "sembilan",
+                    "meaning": "nine"
+                },
+                {
+                    "word": "sepuluh",
+                    "meaning": "ten"
+                }
+            ]
+        },
+        {
+            "id": "1.4",
+            "type": "lesson",
+            "title": "Imlek",
+            "titleEn": "Chinese New Year",
+            "audio": "Unit 1 p 10 11 Shio Tionghoa.mp3",
+            "content": {
+                "intro": "Chinese New Year (Imlek) is widely celebrated across Indonesia. Let's learn the vocabulary and sentences about this important holiday.",
+                "sentences": [
+                    {
+                        "id": "Imlek jatuh pada bulan Januari atau Februari.",
+                        "en": "Chinese New Year falls in January or February."
+                    },
+                    {
+                        "id": "Ada tari barongsai.",
+                        "en": "There is a lion dance."
+                    },
+                    {
+                        "id": "Ada juga tari liong.",
+                        "en": "There is also a dragon dance."
+                    },
+                    {
+                        "id": "Orang Indonesia keturunan Tionghoa makan bersama.",
+                        "en": "Chinese Indonesians eat together."
+                    },
+                    {
+                        "id": "Anak-anak terima uang hong pau.",
+                        "en": "Children receive lucky money in red packets."
+                    },
+                    {
+                        "id": "Orang pakai baju merah.",
+                        "en": "People wear red clothing."
+                    },
+                    {
+                        "id": "Banyak orang bersembahyang di kelenteng.",
+                        "en": "Many people pray at the temple."
+                    },
+                    {
+                        "id": "'Gong Xi Fa Cai!' Selamat Tahun Baru!",
+                        "en": "Happy New Year!"
+                    }
+                ],
+                "grammar": {
+                    "title": "The verb 'ada'",
+                    "explanation": "'Ada' is a very useful verb meaning 'there is' or 'there are.' It can also informally mean 'to have.' At the start of a sentence, 'ada' introduces existence.",
+                    "examples": [
+                        {
+                            "id": "Ada tari barongsai.",
+                            "en": "There is a lion dance."
+                        },
+                        {
+                            "id": "Ada juga tari liong.",
+                            "en": "There is also a dragon dance."
+                        }
+                    ]
+                },
+                "culturalNote": "Chinese New Year is now widely celebrated across Indonesia. Chinese Indonesians are about 3% of the population. Under the New Order government (1966–1998), Chinese celebrations were restricted, but since 2000, public celebrations returned and Mandarin is now one of the most popular foreign languages in schools."
+            },
+            "vocabulary": [
+                {
+                    "word": "Imlek",
+                    "meaning": "Chinese New Year"
+                },
+                {
+                    "word": "jatuh",
+                    "meaning": "fall, falls"
+                },
+                {
+                    "word": "bulan",
+                    "meaning": "month"
+                },
+                {
+                    "word": "atau",
+                    "meaning": "or"
+                },
+                {
+                    "word": "ada",
+                    "meaning": "there is/are; have"
+                },
+                {
+                    "word": "tari barongsai",
+                    "meaning": "Chinese lion dance"
+                },
+                {
+                    "word": "tari liong",
+                    "meaning": "Chinese dragon dance"
+                },
+                {
+                    "word": "makan",
+                    "meaning": "eat"
+                },
+                {
+                    "word": "anak-anak",
+                    "meaning": "children"
+                },
+                {
+                    "word": "terima",
+                    "meaning": "get, accept"
+                },
+                {
+                    "word": "uang",
+                    "meaning": "money"
+                },
+                {
+                    "word": "pakai",
+                    "meaning": "wear, use"
+                },
+                {
+                    "word": "baju",
+                    "meaning": "clothes"
+                },
+                {
+                    "word": "merah",
+                    "meaning": "red"
+                },
+                {
+                    "word": "juga",
+                    "meaning": "also, too"
+                },
+                {
+                    "word": "bersembahyang",
+                    "meaning": "to pray"
+                },
+                {
+                    "word": "kelenteng",
+                    "meaning": "Chinese temple"
+                },
+                {
+                    "word": "orang",
+                    "meaning": "person, people"
+                }
+            ]
+        },
+        {
+            "id": "1.5",
+            "type": "lesson",
+            "title": "Shio Tionghoa",
+            "titleEn": "Chinese Zodiac",
+            "audio": "Unit 1 p 10 11 Shio Tionghoa.mp3",
+            "content": {
+                "intro": "The Chinese zodiac signs (shio) are well known in Indonesia. Let's learn adjectives through the zodiac animals!",
+                "dialogue": [
+                    {
+                        "speaker": "ADI",
+                        "id": "Saya shio kelinci. Kelinci baik dan menyenangkan. Danny shio apa?",
+                        "en": "My zodiac is the rabbit. Rabbits are kind and pleasant. What's yours?"
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Saya shio macan. Sensitif dan keras kepala.",
+                        "en": "I'm a tiger. Sensitive and stubborn."
+                    },
+                    {
+                        "speaker": "ADI",
+                        "id": "Ayah saya juga macan. Ibu saya naga.",
+                        "en": "My father is also a tiger. My mother is a dragon."
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Ibu saya juga naga! Pandai dan keras kepala.",
+                        "en": "My mother is also a dragon! Clever and stubborn."
+                    }
+                ],
+                "zodiacList": [
+                    {
+                        "animal": "Tikus",
+                        "en": "Rat",
+                        "traits": "menyenangkan, pemarah",
+                        "traitsEn": "pleasant, bad-tempered"
+                    },
+                    {
+                        "animal": "Kerbau",
+                        "en": "Buffalo",
+                        "traits": "sabar, keras kepala",
+                        "traitsEn": "patient, stubborn"
+                    },
+                    {
+                        "animal": "Macan",
+                        "en": "Tiger",
+                        "traits": "sensitif, keras kepala",
+                        "traitsEn": "sensitive, stubborn"
+                    },
+                    {
+                        "animal": "Kelinci",
+                        "en": "Rabbit",
+                        "traits": "baik, menyenangkan",
+                        "traitsEn": "kind, pleasant"
+                    },
+                    {
+                        "animal": "Naga",
+                        "en": "Dragon",
+                        "traits": "pandai, keras kepala",
+                        "traitsEn": "clever, stubborn"
+                    },
+                    {
+                        "animal": "Ular",
+                        "en": "Snake",
+                        "traits": "ramah, romantis",
+                        "traitsEn": "friendly, romantic"
+                    },
+                    {
+                        "animal": "Kuda",
+                        "en": "Horse",
+                        "traits": "pandai, ramah",
+                        "traitsEn": "clever, friendly"
+                    },
+                    {
+                        "animal": "Kambing",
+                        "en": "Goat",
+                        "traits": "menyenangkan, cengeng",
+                        "traitsEn": "pleasant, complaining"
+                    },
+                    {
+                        "animal": "Monyet",
+                        "en": "Monkey",
+                        "traits": "pandai, lucu",
+                        "traitsEn": "clever, funny"
+                    },
+                    {
+                        "animal": "Ayam",
+                        "en": "Rooster",
+                        "traits": "rajin, pandai",
+                        "traitsEn": "diligent, clever"
+                    },
+                    {
+                        "animal": "Anjing",
+                        "en": "Dog",
+                        "traits": "setia, curiga",
+                        "traitsEn": "faithful, suspicious"
+                    },
+                    {
+                        "animal": "Babi",
+                        "en": "Pig",
+                        "traits": "pandai, jujur",
+                        "traitsEn": "clever, honest"
+                    }
+                ],
+                "grammar": {
+                    "title": "Adjectives follow the noun",
+                    "explanation": "Indonesian adjectives go after the noun. To describe how something IS, state the noun then the adjective. No need for 'is/are.'",
+                    "examples": [
+                        {
+                            "id": "Danny keras kepala.",
+                            "en": "Danny (is) stubborn."
+                        },
+                        {
+                            "id": "Adi baik.",
+                            "en": "Adi (is) kind."
+                        },
+                        {
+                            "id": "Saya ramah.",
+                            "en": "I (am) friendly."
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "pandai",
+                    "meaning": "clever"
+                },
+                {
+                    "word": "baik",
+                    "meaning": "kind, good"
+                },
+                {
+                    "word": "ramah",
+                    "meaning": "friendly"
+                },
+                {
+                    "word": "rajin",
+                    "meaning": "diligent"
+                },
+                {
+                    "word": "setia",
+                    "meaning": "faithful"
+                },
+                {
+                    "word": "curiga",
+                    "meaning": "suspicious"
+                },
+                {
+                    "word": "jujur",
+                    "meaning": "honest"
+                },
+                {
+                    "word": "keras kepala",
+                    "meaning": "stubborn"
+                },
+                {
+                    "word": "menyenangkan",
+                    "meaning": "pleasant"
+                },
+                {
+                    "word": "sabar",
+                    "meaning": "patient"
+                },
+                {
+                    "word": "pemarah",
+                    "meaning": "bad-tempered"
+                },
+                {
+                    "word": "lucu",
+                    "meaning": "funny, cute"
+                },
+                {
+                    "word": "cengeng",
+                    "meaning": "complaining"
+                },
+                {
+                    "word": "romantis",
+                    "meaning": "romantic"
+                },
+                {
+                    "word": "sensitif",
+                    "meaning": "sensitive"
+                }
+            ]
+        }
+    ],
+    "exercises": [
+        {
+            "id": "ex-1-1",
+            "sectionRef": "1.2",
+            "type": "matching",
+            "instruction": "Match the questions to their answers.",
+            "pairs": [
+                {
+                    "left": "Siapa namanya?",
+                    "right": "Nama saya Danny."
+                },
+                {
+                    "left": "Berapa umurnya?",
+                    "right": "Umur saya 18 tahun."
+                },
+                {
+                    "left": "Berasal dari mana?",
+                    "right": "Saya berasal dari Australia."
+                },
+                {
+                    "left": "Tinggal di mana?",
+                    "right": "Saya tinggal di Perth."
+                },
+                {
+                    "left": "Berapa bersaudara?",
+                    "right": "Saya tiga bersaudara."
+                },
+                {
+                    "left": "Kuliah di mana?",
+                    "right": "Saya mahasiswa di Universitas Curtin."
+                }
+            ]
+        },
+        {
+            "id": "ex-1-2",
+            "sectionRef": "1.1",
+            "type": "multiple_choice",
+            "instruction": "Choose the correct translation.",
+            "questions": [
+                {
+                    "question": "What does 'tiba' mean?",
+                    "options": [
+                        "eat",
+                        "arrive",
+                        "live",
+                        "study"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "question": "What does 'tinggal' mean?",
+                    "options": [
+                        "arrive",
+                        "eat",
+                        "live",
+                        "study"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "question": "How do you say 'He will live together with Adi' in Indonesian?",
+                    "options": [
+                        "Dia makan bersama Adi",
+                        "Dia akan tinggal bersama Adi",
+                        "Dia tiba di rumah Adi",
+                        "Dia belajar bersama Adi"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the correct word order in Indonesian?",
+                    "options": [
+                        "Adjective + Noun",
+                        "Verb + Subject + Object",
+                        "Subject + Verb + Predicate",
+                        "Object + Verb + Subject"
+                    ],
+                    "answer": 2
+                }
+            ]
+        },
+        {
+            "id": "ex-1-3",
+            "sectionRef": "1.2",
+            "type": "fill_blank",
+            "instruction": "Fill in the blank with the correct Indonesian word.",
+            "questions": [
+                {
+                    "sentence": "_____ saya Danny.",
+                    "answer": "Nama",
+                    "hint": "name"
+                },
+                {
+                    "sentence": "Saya _____ dari Australia.",
+                    "answer": "berasal",
+                    "hint": "to come from"
+                },
+                {
+                    "sentence": "Saya _____ di Perth.",
+                    "answer": "tinggal",
+                    "hint": "to live"
+                },
+                {
+                    "sentence": "Saya _____ bersaudara.",
+                    "answer": "tiga",
+                    "hint": "three"
+                },
+                {
+                    "sentence": "Apa _____?",
+                    "answer": "kabar",
+                    "hint": "news (how are you?)"
+                }
+            ]
+        },
+        {
+            "id": "ex-1-4",
+            "sectionRef": "1.3",
+            "type": "multiple_choice",
+            "instruction": "Numbers in Indonesian",
+            "questions": [
+                {
+                    "question": "What is 'delapan' in English?",
+                    "options": [
+                        "six",
+                        "seven",
+                        "eight",
+                        "nine"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "question": "How do you say 'five' in Indonesian?",
+                    "options": [
+                        "empat",
+                        "lima",
+                        "enam",
+                        "tujuh"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "question": "What does 'sepuluh' mean?",
+                    "options": [
+                        "seven",
+                        "eight",
+                        "nine",
+                        "ten"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "question": "How do you say '18' in Indonesian?",
+                    "options": [
+                        "sepuluh delapan",
+                        "delapan belas",
+                        "delapan sepuluh",
+                        "belas delapan"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "question": "What does 'adik' mean?",
+                    "options": [
+                        "older sibling",
+                        "younger sibling",
+                        "mother",
+                        "father"
+                    ],
+                    "answer": 1
+                }
+            ]
+        },
+        {
+            "id": "ex-1-5",
+            "sectionRef": "1.4",
+            "type": "multiple_choice",
+            "instruction": "Chinese New Year vocabulary",
+            "questions": [
+                {
+                    "question": "What does 'Imlek' refer to?",
+                    "options": [
+                        "Ramadan",
+                        "Christmas",
+                        "Chinese New Year",
+                        "Independence Day"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "question": "What does 'ada' mean at the start of a sentence?",
+                    "options": [
+                        "to eat",
+                        "there is/are",
+                        "to have fun",
+                        "to wear"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "question": "What does 'merah' mean?",
+                    "options": [
+                        "blue",
+                        "green",
+                        "red",
+                        "yellow"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "question": "What is a 'kelenteng'?",
+                    "options": [
+                        "a school",
+                        "a Chinese temple",
+                        "a market",
+                        "a dragon dance"
+                    ],
+                    "answer": 1
+                }
+            ]
+        },
+        {
+            "id": "ex-1-6",
+            "sectionRef": "1.5",
+            "type": "matching",
+            "instruction": "Match the Indonesian adjective to its English meaning.",
+            "pairs": [
+                {
+                    "left": "pandai",
+                    "right": "clever"
+                },
+                {
+                    "left": "ramah",
+                    "right": "friendly"
+                },
+                {
+                    "left": "keras kepala",
+                    "right": "stubborn"
+                },
+                {
+                    "left": "jujur",
+                    "right": "honest"
+                },
+                {
+                    "left": "sabar",
+                    "right": "patient"
+                },
+                {
+                    "left": "lucu",
+                    "right": "funny"
+                },
+                {
+                    "left": "setia",
+                    "right": "faithful"
+                },
+                {
+                    "left": "rajin",
+                    "right": "diligent"
+                }
+            ]
+        }
+    ],
+    "endOfUnitVocabulary": [
+        {
+            "word": "ada",
+            "meaning": "there is/are"
+        },
+        {
+            "word": "adalah",
+            "meaning": "is/are"
+        },
+        {
+            "word": "adik",
+            "meaning": "younger sibling"
+        },
+        {
+            "word": "akan",
+            "meaning": "will"
+        },
+        {
+            "word": "anak-anak",
+            "meaning": "children"
+        },
+        {
+            "word": "apa",
+            "meaning": "what"
+        },
+        {
+            "word": "apa kabar?",
+            "meaning": "how are you?"
+        },
+        {
+            "word": "atau",
+            "meaning": "or"
+        },
+        {
+            "word": "ayah",
+            "meaning": "father"
+        },
+        {
+            "word": "ayo",
+            "meaning": "come on, let's"
+        },
+        {
+            "word": "bahasa",
+            "meaning": "language"
+        },
+        {
+            "word": "baik",
+            "meaning": "well, good; kind"
+        },
+        {
+            "word": "baju",
+            "meaning": "clothes"
+        },
+        {
+            "word": "banyak",
+            "meaning": "many"
+        },
+        {
+            "word": "baru",
+            "meaning": "new"
+        },
+        {
+            "word": "belajar",
+            "meaning": "to study, learn"
+        },
+        {
+            "word": "berapa",
+            "meaning": "how many"
+        },
+        {
+            "word": "berasal",
+            "meaning": "to come from"
+        },
+        {
+            "word": "bersama",
+            "meaning": "together"
+        },
+        {
+            "word": "bersaudara",
+            "meaning": "to have siblings"
+        },
+        {
+            "word": "bersembahyang",
+            "meaning": "to pray"
+        },
+        {
+            "word": "bulan",
+            "meaning": "month, moon"
+        },
+        {
+            "word": "dan",
+            "meaning": "and"
+        },
+        {
+            "word": "dari",
+            "meaning": "from"
+        },
+        {
+            "word": "delapan",
+            "meaning": "eight"
+        },
+        {
+            "word": "di",
+            "meaning": "at, in"
+        },
+        {
+            "word": "dia",
+            "meaning": "he, she, it"
+        },
+        {
+            "word": "dua",
+            "meaning": "two"
+        },
+        {
+            "word": "dulu",
+            "meaning": "before"
+        },
+        {
+            "word": "empat",
+            "meaning": "four"
+        },
+        {
+            "word": "enam",
+            "meaning": "six"
+        },
+        {
+            "word": "halo",
+            "meaning": "hello"
+        },
+        {
+            "word": "ibu",
+            "meaning": "mother; woman"
+        },
+        {
+            "word": "Imlek",
+            "meaning": "Chinese New Year"
+        },
+        {
+            "word": "jatuh",
+            "meaning": "fall, falls"
+        },
+        {
+            "word": "juga",
+            "meaning": "also, too"
+        },
+        {
+            "word": "jujur",
+            "meaning": "honest"
+        },
+        {
+            "word": "kakak",
+            "meaning": "older sibling"
+        },
+        {
+            "word": "keluarga",
+            "meaning": "family"
+        },
+        {
+            "word": "keras kepala",
+            "meaning": "stubborn"
+        },
+        {
+            "word": "kuliah",
+            "meaning": "to go to university"
+        },
+        {
+            "word": "lahir",
+            "meaning": "born"
+        },
+        {
+            "word": "lima",
+            "meaning": "five"
+        },
+        {
+            "word": "lucu",
+            "meaning": "funny, cute"
+        },
+        {
+            "word": "makan",
+            "meaning": "eat"
+        },
+        {
+            "word": "nama",
+            "meaning": "name"
+        },
+        {
+            "word": "orang",
+            "meaning": "person, people"
+        },
+        {
+            "word": "pakai",
+            "meaning": "wear; use"
+        },
+        {
+            "word": "pandai",
+            "meaning": "clever"
+        },
+        {
+            "word": "ramah",
+            "meaning": "friendly"
+        },
+        {
+            "word": "rumah",
+            "meaning": "house"
+        },
+        {
+            "word": "sabar",
+            "meaning": "patient"
+        },
+        {
+            "word": "satu",
+            "meaning": "one"
+        },
+        {
+            "word": "saya",
+            "meaning": "I, me, my"
+        },
+        {
+            "word": "selamat",
+            "meaning": "good, happy, safe"
+        },
+        {
+            "word": "sembilan",
+            "meaning": "nine"
+        },
+        {
+            "word": "sepuluh",
+            "meaning": "ten"
+        },
+        {
+            "word": "setia",
+            "meaning": "faithful"
+        },
+        {
+            "word": "siapa",
+            "meaning": "who"
+        },
+        {
+            "word": "tahun",
+            "meaning": "year"
+        },
+        {
+            "word": "tiba",
+            "meaning": "to arrive"
+        },
+        {
+            "word": "tiga",
+            "meaning": "three"
+        },
+        {
+            "word": "tinggal",
+            "meaning": "to live; to remain"
+        },
+        {
+            "word": "tujuh",
+            "meaning": "seven"
+        },
+        {
+            "word": "uang",
+            "meaning": "money"
+        },
+        {
+            "word": "umur",
+            "meaning": "age"
+        }
+    ]
+}

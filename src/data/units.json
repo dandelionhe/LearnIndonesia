@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "Selamat Tahun Baru Imlek!",
+        "subtitle": "Happy Chinese New Year!",
+        "description": "Learn basic facts about Indonesian, numbers, introductions, and Chinese New Year vocabulary.",
+        "icon": "🎆",
+        "color": "#E74C3C",
+        "totalLessons": 5,
+        "totalExercises": 10
+    },
+    {
+        "id": 2,
+        "title": "Tiba di Jakarta",
+        "subtitle": "Arriving in Jakarta",
+        "description": "Learn about family, possessions, modifiers, and describing people's appearance.",
+        "icon": "✈️",
+        "color": "#3498DB",
+        "totalLessons": 5,
+        "totalExercises": 15
+    },
+    {
+        "id": 3,
+        "title": "Jalan ke Bali",
+        "subtitle": "The Road to Bali",
+        "description": "Learn about travel, train journeys, time, body parts, and directional words.",
+        "icon": "🚂",
+        "color": "#2ECC71",
+        "totalLessons": 7,
+        "totalExercises": 12
+    },
+    {
+        "id": 4,
+        "title": "Hari Kartini",
+        "subtitle": "Kartini Day",
+        "description": "Learn about Indonesian heroes, family events, and traditional clothing.",
+        "icon": "🌺",
+        "color": "#9B59B6",
+        "totalLessons": 6,
+        "totalExercises": 10
+    },
+    {
+        "id": 5,
+        "title": "Jalan-jalan ke Yogyakarta",
+        "subtitle": "A Trip to Yogyakarta",
+        "description": "Learn about tourism, temples, bargaining, and Javanese culture.",
+        "icon": "🏛️",
+        "color": "#E67E22",
+        "totalLessons": 6,
+        "totalExercises": 10
+    },
+    {
+        "id": 6,
+        "title": "Porseni",
+        "subtitle": "Sports Day",
+        "description": "Learn about school activities, hobbies, sports, and report cards.",
+        "icon": "⚽",
+        "color": "#1ABC9C",
+        "totalLessons": 7,
+        "totalExercises": 10
+    },
+    {
+        "id": 7,
+        "title": "Kegiatan selama Ramadan",
+        "subtitle": "Activities during Ramadan",
+        "description": "Learn about Islamic holidays, fasting, food, and Indonesian cuisine.",
+        "icon": "🌙",
+        "color": "#F39C12",
+        "totalLessons": 6,
+        "totalExercises": 10
+    },
+    {
+        "id": 8,
+        "title": "Uda Amir Penjual Nasi Padang",
+        "subtitle": "Uncle Amir the Nasi Padang Seller",
+        "description": "Learn about Padang food, occupations, and the Eid al-Adha celebration.",
+        "icon": "🍚",
+        "color": "#D35400",
+        "totalLessons": 4,
+        "totalExercises": 8
+    },
+    {
+        "id": 9,
+        "title": "Melihat Pengumuman",
+        "subtitle": "Reading Announcements",
+        "description": "Learn about media, advertisements, formal language, and job applications.",
+        "icon": "📰",
+        "color": "#8E44AD",
+        "totalLessons": 5,
+        "totalExercises": 10
+    },
+    {
+        "id": 10,
+        "title": "Sumpah Pemuda",
+        "subtitle": "The Youth Pledge",
+        "description": "Learn about Indonesian history, national identity, and patriotic songs.",
+        "icon": "🇮🇩",
+        "color": "#C0392B",
+        "totalLessons": 6,
+        "totalExercises": 10
+    },
+    {
+        "id": 11,
+        "title": "Ayo, Bung!",
+        "subtitle": "Let's Go!",
+        "description": "Learn about social media, modern communication, and informal language.",
+        "icon": "📱",
+        "color": "#16A085",
+        "totalLessons": 5,
+        "totalExercises": 10
+    },
+    {
+        "id": 12,
+        "title": "Natal di Indonesia",
+        "subtitle": "Christmas in Indonesia",
+        "description": "Learn about Christmas celebrations, phone conversations, and end-of-year traditions.",
+        "icon": "🎄",
+        "color": "#27AE60",
+        "totalLessons": 4,
+        "totalExercises": 8
+    }
+]
