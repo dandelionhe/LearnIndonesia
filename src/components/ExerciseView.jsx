@@ -1,9 +1,25 @@
 import { useParams, Link, useNavigate } from 'react-router-dom'
 import { useState, useCallback } from 'react'
 import unit1Data from '../data/unit1.json'
+import unit2Data from '../data/unit2.json'
+import unit3Data from '../data/unit3.json'
+import unit4Data from '../data/unit4.json'
+import unit5Data from '../data/unit5.json'
+import unit6Data from '../data/unit6.json'
+import unit7Data from '../data/unit7.json'
+import unit8Data from '../data/unit8.json'
+import unit9Data from '../data/unit9.json'
+import unit10Data from '../data/unit10.json'
+import unit11Data from '../data/unit11.json'
+import unit12Data from '../data/unit12.json'
 import './ExerciseView.css'
 
-const unitDataMap = { 1: unit1Data }
+const unitDataMap = {
+    1: unit1Data, 2: unit2Data, 3: unit3Data,
+    4: unit4Data, 5: unit5Data, 6: unit6Data,
+    7: unit7Data, 8: unit8Data, 9: unit9Data,
+    10: unit10Data, 11: unit11Data, 12: unit12Data
+}
 
 export default function ExerciseView({ progressHook }) {
     const { unitId, exerciseId } = useParams()

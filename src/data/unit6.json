@@ -1,0 +1,534 @@
+{
+    "id": 6,
+    "title": "Hore, Liburan Sekolah!",
+    "subtitle": "Hooray! It's School Holidays!",
+    "sections": [
+        {
+            "id": "6.1",
+            "type": "lesson",
+            "title": "Porseni",
+            "titleEn": "Sports and Arts Week",
+            "content": {
+                "intro": "At the end of the school year, students celebrate Sports and Art Week (Porseni). Learn about school events, plurals, and cardinal numbers.",
+                "sentences": [
+                    {
+                        "id": "Hampir semua murid berhasil naik kelas.",
+                        "en": "Nearly all students were promoted to the next grade."
+                    },
+                    {
+                        "id": "Juara Lomba Sepak Bola adalah tim dari kelas II B 1!",
+                        "en": "The winner of the soccer competition is the team from class II B 1!"
+                    },
+                    {
+                        "id": "Juara umum Porseni adalah kelas III A 2!",
+                        "en": "The overall winner is class III A 2!"
+                    }
+                ],
+                "grammar": {
+                    "title": "Cardinal Numbers with Ke-",
+                    "explanation": "Add **ke-** to any number to make it ordinal: kedua (second), ketiga (third). Exception: 'first' is usually **pertama**, not kesatu.",
+                    "examples": [
+                        {
+                            "id": "juara kedua",
+                            "en": "second place / runner-up"
+                        },
+                        {
+                            "id": "juara ketiga",
+                            "en": "third place"
+                        },
+                        {
+                            "id": "menit ke-20",
+                            "en": "the 20th minute"
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "olahraga",
+                    "meaning": "sport(s)"
+                },
+                {
+                    "word": "seni",
+                    "meaning": "art(s)"
+                },
+                {
+                    "word": "juara",
+                    "meaning": "champion, winner"
+                },
+                {
+                    "word": "lomba",
+                    "meaning": "race, contest"
+                },
+                {
+                    "word": "murid",
+                    "meaning": "student, pupil"
+                },
+                {
+                    "word": "berhasil",
+                    "meaning": "to succeed"
+                },
+                {
+                    "word": "naik kelas",
+                    "meaning": "promoted to next grade"
+                },
+                {
+                    "word": "ujian",
+                    "meaning": "exam"
+                }
+            ]
+        },
+        {
+            "id": "6.2",
+            "type": "lesson",
+            "title": "Bagi rapot",
+            "titleEn": "Handing out report cards",
+            "content": {
+                "intro": "The students compare their school results. Learn comparatives with lebih (more), kurang (less), and paling (most).",
+                "dialogue": [
+                    {
+                        "speaker": "ADI",
+                        "id": "Nilai Matematikamu berapa ya?",
+                        "en": "What was your Math grade?"
+                    },
+                    {
+                        "speaker": "RIRI",
+                        "id": "Aku hanya 74. Matematika itu susah.",
+                        "en": "I only got 74. Math is difficult."
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Nilaiku lebih baik, 87.",
+                        "en": "My grade is higher, 87."
+                    },
+                    {
+                        "speaker": "AYU",
+                        "id": "Siapa yang dapat nilai paling tinggi?",
+                        "en": "Who got the highest grade?"
+                    }
+                ],
+                "grammar": {
+                    "title": "Comparatives and Superlatives",
+                    "explanation": "Use **lebih** (more) for comparatives, **kurang** (less) for negative comparatives, and **paling** (most) for superlatives. Add **daripada** (than) for comparisons.",
+                    "examples": [
+                        {
+                            "id": "Nilaiku lebih baik.",
+                            "en": "My grade is better."
+                        },
+                        {
+                            "id": "Bahasa Indonesia kurang baik.",
+                            "en": "My Indonesian isn't so good."
+                        },
+                        {
+                            "id": "Nilai paling tinggi.",
+                            "en": "The highest grade."
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "nilai",
+                    "meaning": "score, grade"
+                },
+                {
+                    "word": "susah",
+                    "meaning": "difficult"
+                },
+                {
+                    "word": "hebat",
+                    "meaning": "great, wonderful"
+                },
+                {
+                    "word": "dapat",
+                    "meaning": "can; to get"
+                },
+                {
+                    "word": "rapot",
+                    "meaning": "school report"
+                },
+                {
+                    "word": "daripada",
+                    "meaning": "than"
+                }
+            ]
+        },
+        {
+            "id": "6.3",
+            "type": "lesson",
+            "title": "Hobi",
+            "titleEn": "Hobbies",
+            "content": {
+                "intro": "Learn to talk about hobbies and things you like using suka, paling suka, and kurang suka.",
+                "dialogue": [
+                    {
+                        "speaker": "DANNY",
+                        "id": "Ayu suka hobi apa, ya?",
+                        "en": "What hobbies do you have?"
+                    },
+                    {
+                        "speaker": "AYU",
+                        "id": "Aku paling suka bulu tangkis dan menyanyi.",
+                        "en": "I like badminton and singing most."
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Saya suka memasak, sepak bola dan futsal.",
+                        "en": "I like cooking, soccer and indoor soccer."
+                    }
+                ],
+                "grammar": {
+                    "title": "Expressing Likes with Suka",
+                    "explanation": "**suka** = like, **paling suka** = like most, **kurang suka** = don't really like, **tidak suka** = don't like.",
+                    "examples": [
+                        {
+                            "id": "Saya paling suka memasak.",
+                            "en": "I like cooking most of all."
+                        },
+                        {
+                            "id": "Saya kurang suka menonton.",
+                            "en": "I don't really like watching films."
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "bulu tangkis",
+                    "meaning": "badminton"
+                },
+                {
+                    "word": "sepak bola",
+                    "meaning": "soccer"
+                },
+                {
+                    "word": "futsal",
+                    "meaning": "indoor soccer"
+                },
+                {
+                    "word": "bola voli",
+                    "meaning": "volleyball"
+                },
+                {
+                    "word": "bola basket",
+                    "meaning": "basketball"
+                },
+                {
+                    "word": "memasak",
+                    "meaning": "cooking"
+                },
+                {
+                    "word": "menyanyi",
+                    "meaning": "singing"
+                },
+                {
+                    "word": "memancing",
+                    "meaning": "fishing"
+                },
+                {
+                    "word": "menonton",
+                    "meaning": "watching films"
+                }
+            ]
+        },
+        {
+            "id": "6.5",
+            "type": "lesson",
+            "title": "Warna dan musim",
+            "titleEn": "Colors and seasons",
+            "content": {
+                "intro": "Learn Indonesian colors and seasons. Add tua (dark) or muda (light) after a color for shades.",
+                "sentences": [
+                    {
+                        "id": "Biru muda berarti light blue.",
+                        "en": "Light blue."
+                    },
+                    {
+                        "id": "Merah muda berarti pink.",
+                        "en": "Pink."
+                    },
+                    {
+                        "id": "Musim hujan dari Oktober sampai Maret.",
+                        "en": "Rainy season is from October to March."
+                    }
+                ],
+                "grammar": {
+                    "title": "Color Shades & Seasons",
+                    "explanation": "Add **tua** (dark) or **muda** (light) after colors: biru tua (navy), merah muda (pink). Indonesia has two seasons: **musim hujan** (wet) and **musim kemarau** (dry).",
+                    "examples": [
+                        {
+                            "id": "ungu muda",
+                            "en": "light purple, violet"
+                        },
+                        {
+                            "id": "biru tua",
+                            "en": "dark blue, navy"
+                        },
+                        {
+                            "id": "musim hujan",
+                            "en": "rainy/wet season"
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "putih",
+                    "meaning": "white"
+                },
+                {
+                    "word": "hitam",
+                    "meaning": "black"
+                },
+                {
+                    "word": "merah",
+                    "meaning": "red"
+                },
+                {
+                    "word": "biru",
+                    "meaning": "blue"
+                },
+                {
+                    "word": "hijau",
+                    "meaning": "green"
+                },
+                {
+                    "word": "kuning",
+                    "meaning": "yellow"
+                },
+                {
+                    "word": "jingga",
+                    "meaning": "orange"
+                },
+                {
+                    "word": "ungu",
+                    "meaning": "purple"
+                },
+                {
+                    "word": "cokelat",
+                    "meaning": "brown"
+                },
+                {
+                    "word": "abu-abu",
+                    "meaning": "grey"
+                },
+                {
+                    "word": "musim",
+                    "meaning": "season"
+                },
+                {
+                    "word": "hujan",
+                    "meaning": "rain"
+                }
+            ]
+        }
+    ],
+    "exercises": [
+        {
+            "id": "ex-6-1",
+            "sectionRef": "6.2",
+            "type": "matching",
+            "instruction": "Match the comparatives.",
+            "pairs": [
+                {
+                    "left": "lebih baik",
+                    "right": "better"
+                },
+                {
+                    "left": "kurang baik",
+                    "right": "not so good"
+                },
+                {
+                    "left": "paling tinggi",
+                    "right": "highest"
+                },
+                {
+                    "left": "daripada",
+                    "right": "than"
+                }
+            ]
+        },
+        {
+            "id": "ex-6-2",
+            "sectionRef": "6.3",
+            "type": "matching",
+            "instruction": "Match the hobbies.",
+            "pairs": [
+                {
+                    "left": "bulu tangkis",
+                    "right": "badminton"
+                },
+                {
+                    "left": "memasak",
+                    "right": "cooking"
+                },
+                {
+                    "left": "memancing",
+                    "right": "fishing"
+                },
+                {
+                    "left": "menonton",
+                    "right": "watching films"
+                },
+                {
+                    "left": "sepak bola",
+                    "right": "soccer"
+                }
+            ]
+        },
+        {
+            "id": "ex-6-3",
+            "sectionRef": "6.5",
+            "type": "multiple_choice",
+            "instruction": "Colors and seasons",
+            "questions": [
+                {
+                    "question": "What color is 'merah muda'?",
+                    "options": [
+                        "dark red",
+                        "light red",
+                        "pink",
+                        "orange"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "question": "What is 'musim kemarau'?",
+                    "options": [
+                        "rainy season",
+                        "dry season",
+                        "spring",
+                        "winter"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "question": "How do you say 'navy blue' in Indonesian?",
+                    "options": [
+                        "biru muda",
+                        "biru tua",
+                        "biru putih",
+                        "biru hijau"
+                    ],
+                    "answer": 1
+                }
+            ]
+        },
+        {
+            "id": "ex-6-4",
+            "sectionRef": "6.1",
+            "type": "fill_blank",
+            "instruction": "Complete the ordinal numbers.",
+            "questions": [
+                {
+                    "sentence": "Juara _____ berarti 'second place'. (dua)",
+                    "answer": "kedua",
+                    "hint": "add ke- prefix"
+                },
+                {
+                    "sentence": "Menit _____-20 pertandingan. (the 20th minute)",
+                    "answer": "ke",
+                    "hint": "ordinal prefix"
+                }
+            ]
+        }
+    ],
+    "endOfUnitVocabulary": [
+        {
+            "word": "olahraga",
+            "meaning": "sport(s)"
+        },
+        {
+            "word": "seni",
+            "meaning": "art(s)"
+        },
+        {
+            "word": "juara",
+            "meaning": "champion"
+        },
+        {
+            "word": "murid",
+            "meaning": "student"
+        },
+        {
+            "word": "ujian",
+            "meaning": "exam"
+        },
+        {
+            "word": "nilai",
+            "meaning": "score, grade"
+        },
+        {
+            "word": "susah",
+            "meaning": "difficult"
+        },
+        {
+            "word": "lebih",
+            "meaning": "more, -er"
+        },
+        {
+            "word": "paling",
+            "meaning": "most, -est"
+        },
+        {
+            "word": "bulu tangkis",
+            "meaning": "badminton"
+        },
+        {
+            "word": "sepak bola",
+            "meaning": "soccer"
+        },
+        {
+            "word": "memasak",
+            "meaning": "cooking"
+        },
+        {
+            "word": "menyanyi",
+            "meaning": "singing"
+        },
+        {
+            "word": "putih",
+            "meaning": "white"
+        },
+        {
+            "word": "biru",
+            "meaning": "blue"
+        },
+        {
+            "word": "hijau",
+            "meaning": "green"
+        },
+        {
+            "word": "kuning",
+            "meaning": "yellow"
+        },
+        {
+            "word": "merah",
+            "meaning": "red"
+        },
+        {
+            "word": "musim",
+            "meaning": "season"
+        },
+        {
+            "word": "hujan",
+            "meaning": "rain"
+        },
+        {
+            "word": "menang",
+            "meaning": "win"
+        },
+        {
+            "word": "kalah",
+            "meaning": "lose"
+        },
+        {
+            "word": "karena",
+            "meaning": "because"
+        },
+        {
+            "word": "harus",
+            "meaning": "must"
+        }
+    ]
+}

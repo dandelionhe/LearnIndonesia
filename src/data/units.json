@@ -11,20 +11,20 @@
     },
     {
         "id": 2,
-        "title": "Tiba di Jakarta",
-        "subtitle": "Arriving in Jakarta",
-        "description": "Learn about family, possessions, modifiers, and describing people's appearance.",
-        "icon": "✈️",
+        "title": "Di Kampung dan Di Kota",
+        "subtitle": "In the Country and the City",
+        "description": "Talk about school, friends, and daily life. Learn 'ber-' verbs and possessive '-nya'.",
+        "icon": "🏫",
         "color": "#3498DB",
         "totalLessons": 5,
         "totalExercises": 15
     },
     {
         "id": 3,
-        "title": "Jalan ke Bali",
-        "subtitle": "The Road to Bali",
-        "description": "Learn about travel, train journeys, time, body parts, and directional words.",
-        "icon": "🚂",
+        "title": "Hari Nyepi di Bali",
+        "subtitle": "The Balinese Day of Silence",
+        "description": "Travel to Bali, learn about Hindu culture, giving directions, and 'meN-' verbs.",
+        "icon": "🛕",
         "color": "#2ECC71",
         "totalLessons": 7,
         "totalExercises": 12
@@ -33,90 +33,90 @@
         "id": 4,
         "title": "Hari Kartini",
         "subtitle": "Kartini Day",
-        "description": "Learn about Indonesian heroes, family events, and traditional clothing.",
+        "description": "Learn about Kartini, family descriptions, weddings, telling time, and passive di- verbs.",
         "icon": "🌺",
         "color": "#9B59B6",
-        "totalLessons": 6,
-        "totalExercises": 10
+        "totalLessons": 3,
+        "totalExercises": 3
     },
     {
         "id": 5,
-        "title": "Jalan-jalan ke Yogyakarta",
-        "subtitle": "A Trip to Yogyakarta",
-        "description": "Learn about tourism, temples, bargaining, and Javanese culture.",
+        "title": "Waisak di Yogya",
+        "subtitle": "Waisak in Jogja",
+        "description": "Trip to Yogyakarta, tenses, telling time with fractions, occupations, and directions.",
         "icon": "🏛️",
         "color": "#E67E22",
-        "totalLessons": 6,
-        "totalExercises": 10
+        "totalLessons": 3,
+        "totalExercises": 3
     },
     {
         "id": 6,
-        "title": "Porseni",
-        "subtitle": "Sports Day",
-        "description": "Learn about school activities, hobbies, sports, and report cards.",
+        "title": "Hore, Liburan Sekolah!",
+        "subtitle": "Hooray! It's School Holidays!",
+        "description": "Sports and art week, school reports, hobbies, favorite things, colors, seasons, and cinema.",
         "icon": "⚽",
         "color": "#1ABC9C",
-        "totalLessons": 7,
-        "totalExercises": 10
+        "totalLessons": 3,
+        "totalExercises": 3
     },
     {
         "id": 7,
-        "title": "Kegiatan selama Ramadan",
-        "subtitle": "Activities during Ramadan",
-        "description": "Learn about Islamic holidays, fasting, food, and Indonesian cuisine.",
+        "title": "Ramadhan dan Idul Fitri",
+        "subtitle": "Fasting Month and Eid-Ul-Fitr",
+        "description": "Ramadan customs, ter- prefix, food vocabulary, mengapa/karena, and mudik tradition.",
         "icon": "🌙",
         "color": "#F39C12",
-        "totalLessons": 6,
-        "totalExercises": 10
+        "totalLessons": 3,
+        "totalExercises": 3
     },
     {
         "id": 8,
-        "title": "Uda Amir Penjual Nasi Padang",
-        "subtitle": "Uncle Amir the Nasi Padang Seller",
-        "description": "Learn about Padang food, occupations, and the Eid al-Adha celebration.",
+        "title": "Idul Adha di Sumatera Barat",
+        "subtitle": "Idul Adha in West Sumatra",
+        "description": "Padang food, Idul Adha, counters (sebuah, seorang, seekor), imperative verbs, and -an suffix.",
         "icon": "🍚",
         "color": "#D35400",
-        "totalLessons": 4,
-        "totalExercises": 8
+        "totalLessons": 3,
+        "totalExercises": 3
     },
     {
         "id": 9,
-        "title": "Melihat Pengumuman",
-        "subtitle": "Reading Announcements",
-        "description": "Learn about media, advertisements, formal language, and job applications.",
-        "icon": "📰",
+        "title": "Merdeka!",
+        "subtitle": "Independence!",
+        "description": "Indonesian independence, Sukarno, bukan vs tidak, weather vocabulary, and prepositions.",
+        "icon": "🇮🇩",
         "color": "#8E44AD",
-        "totalLessons": 5,
-        "totalExercises": 10
+        "totalLessons": 3,
+        "totalExercises": 3
     },
     {
         "id": 10,
-        "title": "Sumpah Pemuda",
-        "subtitle": "The Youth Pledge",
-        "description": "Learn about Indonesian history, national identity, and patriotic songs.",
-        "icon": "🇮🇩",
+        "title": "Satu Nusa, Satu Bangsa, Satu Bahasa",
+        "subtitle": "One Island, One Nation, One Language",
+        "description": "Youth Pledge, sangat/sekali intensifiers, gado-gado recipe, and the -kan verb suffix.",
+        "icon": "🏛️",
         "color": "#C0392B",
-        "totalLessons": 6,
-        "totalExercises": 10
+        "totalLessons": 3,
+        "totalExercises": 3
     },
     {
         "id": 11,
         "title": "Ayo, Bung!",
-        "subtitle": "Let's Go!",
-        "description": "Learn about social media, modern communication, and informal language.",
-        "icon": "📱",
+        "subtitle": "Let's Go, Bro!",
+        "description": "Surabaya city parks, Battle of Surabaya, ke-an nouns, mohon requests, and Indonesian proverbs.",
+        "icon": "⚔️",
         "color": "#16A085",
-        "totalLessons": 5,
-        "totalExercises": 10
+        "totalLessons": 3,
+        "totalExercises": 3
     },
     {
         "id": 12,
-        "title": "Natal di Indonesia",
-        "subtitle": "Christmas in Indonesia",
-        "description": "Learn about Christmas celebrations, phone conversations, and end-of-year traditions.",
+        "title": "Selamat Natal dan Tahun Baru",
+        "subtitle": "Merry Christmas and Happy New Year",
+        "description": "Christmas cards, bahwa conjunction, telephone conversations, identity cards, and eastern Indonesia traditions.",
         "icon": "🎄",
         "color": "#27AE60",
-        "totalLessons": 4,
-        "totalExercises": 8
+        "totalLessons": 3,
+        "totalExercises": 3
     }
 ]

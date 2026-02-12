@@ -1,0 +1,381 @@
+{
+    "id": 10,
+    "title": "Satu Nusa, Satu Bangsa, Satu Bahasa",
+    "subtitle": "One Island, One Nation, One Language",
+    "sections": [
+        {
+            "id": "10.1",
+            "type": "lesson",
+            "title": "Sumpah Pemuda",
+            "titleEn": "The Youth Pledge",
+            "content": {
+                "intro": "On October 28, 1928, Indonesian youth pledged to unite under one homeland, one nation, and one language. This was a milestone toward independence.",
+                "sentences": [
+                    {
+                        "id": "Kami, putra dan putri Indonesia, mengaku bertumpah darah yang satu.",
+                        "en": "We, sons and daughters of Indonesia, acknowledge one motherland."
+                    },
+                    {
+                        "id": "Kami mengaku bangsa yang satu, Bangsa Indonesia.",
+                        "en": "We acknowledge one nation, the nation of Indonesia."
+                    },
+                    {
+                        "id": "Kami menjunjung bahasa persatuan, Bahasa Indonesia.",
+                        "en": "We respect the language of unity, Indonesian."
+                    }
+                ],
+                "grammar": {
+                    "title": "Maka and Makanya",
+                    "explanation": "**Maka** (formal) and **makanya** (informal) = 'therefore'. Used to show logical consequence. Maka appears mid-sentence; makanya at the start.",
+                    "examples": [
+                        {
+                            "id": "Makanya, kita memperingati Hari Sumpah Pemuda.",
+                            "en": "That's why we commemorate Youth Pledge Day."
+                        },
+                        {
+                            "id": "Meskipun begitu, banyak gerakan pemuda sudah muncul.",
+                            "en": "Despite that, many youth movements had appeared."
+                        }
+                    ]
+                },
+                "culturalNote": "In 1928, Indonesia was still a Dutch colony called Hindia Belanda (Dutch East Indies). The Youth Pledge united diverse ethnic groups under one identity."
+            },
+            "vocabulary": [
+                {
+                    "word": "sumpah",
+                    "meaning": "oath, pledge"
+                },
+                {
+                    "word": "pemuda",
+                    "meaning": "youth"
+                },
+                {
+                    "word": "persatuan",
+                    "meaning": "unity"
+                },
+                {
+                    "word": "tanah air",
+                    "meaning": "homeland"
+                },
+                {
+                    "word": "bangsa",
+                    "meaning": "nation, people"
+                },
+                {
+                    "word": "menjunjung",
+                    "meaning": "to hold in high esteem"
+                },
+                {
+                    "word": "gerakan",
+                    "meaning": "movement"
+                },
+                {
+                    "word": "penting",
+                    "meaning": "important"
+                }
+            ]
+        },
+        {
+            "id": "10.4",
+            "type": "lesson",
+            "title": "Pentingnya Sumpah Pemuda",
+            "titleEn": "The importance of the Youth Pledge",
+            "content": {
+                "intro": "Danny asks his teacher about Sukarno's role in the Youth Pledge. Learn intensifiers sangat and sekali.",
+                "dialogue": [
+                    {
+                        "speaker": "DANNY",
+                        "id": "Apakah Soekarno mempunyai peran penting dalam sumpah tersebut?",
+                        "en": "Did Sukarno play an important role in the pledge?"
+                    },
+                    {
+                        "speaker": "IBU RATIH",
+                        "id": "Sepertinya Soekarno tidak ikut dalam Kongres Pemuda.",
+                        "en": "It seems Sukarno didn't join the Youth Congress."
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Apakah beliau pernah menjadi anggota Jong Java?",
+                        "en": "Was he ever a member of Jong Java?"
+                    },
+                    {
+                        "speaker": "IBU RATIH",
+                        "id": "Tepat sekali.",
+                        "en": "Exactly right."
+                    }
+                ],
+                "grammar": {
+                    "title": "Sangat and Sekali",
+                    "explanation": "Both mean 'very' but differ in position: **sangat** comes BEFORE the word (sangat panas = very hot), **sekali** comes AFTER (panas sekali = very hot).",
+                    "examples": [
+                        {
+                            "id": "sangat penting",
+                            "en": "very important"
+                        },
+                        {
+                            "id": "penting sekali",
+                            "en": "very important"
+                        },
+                        {
+                            "id": "tepat sekali",
+                            "en": "very exact, absolutely correct"
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "peran",
+                    "meaning": "role"
+                },
+                {
+                    "word": "pertanyaan",
+                    "meaning": "question"
+                },
+                {
+                    "word": "sepertinya",
+                    "meaning": "it seems"
+                },
+                {
+                    "word": "tepat",
+                    "meaning": "exact, correct"
+                },
+                {
+                    "word": "anggota",
+                    "meaning": "member"
+                },
+                {
+                    "word": "sekali",
+                    "meaning": "very; once"
+                }
+            ]
+        },
+        {
+            "id": "10.6",
+            "type": "lesson",
+            "title": "Membuat gado-gado",
+            "titleEn": "Making gado-gado",
+            "content": {
+                "intro": "Learn cooking vocabulary through a gado-gado recipe. Gado-gado is a vegetarian Indonesian salad with peanut sauce.",
+                "sentences": [
+                    {
+                        "id": "Rebus sayuran sampai matang.",
+                        "en": "Boil the vegetables until cooked."
+                    },
+                    {
+                        "id": "Potong tipis tahu, tempe dan telur.",
+                        "en": "Slice the tofu, tempeh and egg thinly."
+                    },
+                    {
+                        "id": "Tuang bumbu kacang di atas.",
+                        "en": "Pour peanut sauce on top."
+                    }
+                ],
+                "grammar": {
+                    "title": "The -kan Verb Suffix",
+                    "explanation": "**-kan** shows the verb takes a direct object. Can mean doing something for someone: membuka (open) → **membukakan** (open for someone). Also used in imperatives: tuliskan (write down).",
+                    "examples": [
+                        {
+                            "id": "Danny membukakan pintu untuk Adi.",
+                            "en": "Danny opened the door for Adi."
+                        },
+                        {
+                            "id": "Tolong tuliskan nama!",
+                            "en": "Please write your name!"
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "rebus",
+                    "meaning": "to boil"
+                },
+                {
+                    "word": "potong",
+                    "meaning": "to cut, slice"
+                },
+                {
+                    "word": "matang",
+                    "meaning": "cooked, ripe"
+                },
+                {
+                    "word": "telur",
+                    "meaning": "egg"
+                },
+                {
+                    "word": "tahu",
+                    "meaning": "tofu"
+                },
+                {
+                    "word": "tempe",
+                    "meaning": "tempeh"
+                },
+                {
+                    "word": "bayam",
+                    "meaning": "spinach"
+                },
+                {
+                    "word": "kol",
+                    "meaning": "cabbage"
+                },
+                {
+                    "word": "bumbu",
+                    "meaning": "spice, sauce"
+                }
+            ]
+        }
+    ],
+    "exercises": [
+        {
+            "id": "ex-10-1",
+            "sectionRef": "10.1",
+            "type": "matching",
+            "instruction": "Match the Youth Pledge vocabulary.",
+            "pairs": [
+                {
+                    "left": "sumpah",
+                    "right": "oath, pledge"
+                },
+                {
+                    "left": "persatuan",
+                    "right": "unity"
+                },
+                {
+                    "left": "tanah air",
+                    "right": "homeland"
+                },
+                {
+                    "left": "bangsa",
+                    "right": "nation"
+                },
+                {
+                    "left": "maka",
+                    "right": "therefore"
+                }
+            ]
+        },
+        {
+            "id": "ex-10-2",
+            "sectionRef": "10.4",
+            "type": "multiple_choice",
+            "instruction": "Sangat and sekali",
+            "questions": [
+                {
+                    "question": "Where does 'sangat' go in relation to the adjective?",
+                    "options": [
+                        "after",
+                        "before",
+                        "either position",
+                        "replaces it"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "question": "How do you say 'very important' using sekali?",
+                    "options": [
+                        "sekali penting",
+                        "penting sekali",
+                        "sangat penting",
+                        "penting sangat"
+                    ],
+                    "answer": 1
+                }
+            ]
+        },
+        {
+            "id": "ex-10-3",
+            "sectionRef": "10.6",
+            "type": "matching",
+            "instruction": "Match the cooking vocabulary.",
+            "pairs": [
+                {
+                    "left": "rebus",
+                    "right": "to boil"
+                },
+                {
+                    "left": "potong",
+                    "right": "to cut/slice"
+                },
+                {
+                    "left": "matang",
+                    "right": "cooked/ripe"
+                },
+                {
+                    "left": "bumbu",
+                    "right": "spice/sauce"
+                },
+                {
+                    "left": "telur",
+                    "right": "egg"
+                }
+            ]
+        }
+    ],
+    "endOfUnitVocabulary": [
+        {
+            "word": "sumpah",
+            "meaning": "oath, pledge"
+        },
+        {
+            "word": "pemuda",
+            "meaning": "youth"
+        },
+        {
+            "word": "persatuan",
+            "meaning": "unity"
+        },
+        {
+            "word": "tanah air",
+            "meaning": "homeland"
+        },
+        {
+            "word": "bangsa",
+            "meaning": "nation"
+        },
+        {
+            "word": "penting",
+            "meaning": "important"
+        },
+        {
+            "word": "pertanyaan",
+            "meaning": "question"
+        },
+        {
+            "word": "sekali",
+            "meaning": "very; once"
+        },
+        {
+            "word": "rebus",
+            "meaning": "to boil"
+        },
+        {
+            "word": "potong",
+            "meaning": "to cut/slice"
+        },
+        {
+            "word": "telur",
+            "meaning": "egg"
+        },
+        {
+            "word": "tahu",
+            "meaning": "tofu"
+        },
+        {
+            "word": "tempe",
+            "meaning": "tempeh"
+        },
+        {
+            "word": "bayam",
+            "meaning": "spinach"
+        },
+        {
+            "word": "bumbu",
+            "meaning": "spice/sauce"
+        },
+        {
+            "word": "matang",
+            "meaning": "cooked"
+        }
+    ]
+}

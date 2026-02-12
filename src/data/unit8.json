@@ -1,0 +1,424 @@
+{
+    "id": 8,
+    "title": "Idul Adha di Sumatera Barat",
+    "subtitle": "Idul Adha in West Sumatra",
+    "sections": [
+        {
+            "id": "8.1",
+            "type": "lesson",
+            "title": "Uda Amir, penjual nasi Padang",
+            "titleEn": "Amir, the Padang food seller",
+            "content": {
+                "intro": "Adi and Danny chat with a Padang restaurant owner about his life, customers, and an upcoming trip to Padang for Idul Adha.",
+                "dialogue": [
+                    {
+                        "speaker": "ADI",
+                        "id": "Uda Amir sudah berapa lama di Jakarta?",
+                        "en": "How long have you been in Jakarta?"
+                    },
+                    {
+                        "speaker": "UDA AMIR",
+                        "id": "Sudah 30 tahun sejak saya pindah dari Padang.",
+                        "en": "It's been 30 years since I moved from Padang."
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Makanan apa yang khas di sini?",
+                        "en": "What special foods do you have here?"
+                    },
+                    {
+                        "speaker": "UDA AMIR",
+                        "id": "Makanan Padang, seperti rendang, soto Padang, dan ayam pop.",
+                        "en": "Padang food, like beef rendang, soup, and skinless chicken."
+                    },
+                    {
+                        "speaker": "UDA AMIR",
+                        "id": "Saat Idul Adha nanti, saya dan keluarga akan pergi ke Padang.",
+                        "en": "When Idul Adha comes, my family and I will go to Padang."
+                    }
+                ],
+                "grammar": {
+                    "title": "Kalian and Sekalian",
+                    "explanation": "**Kalian** = you (plural), used informally and formally. **Sekalian** = all (at once) or together. E.g., *Pelajar seperti kalian* = students like you.",
+                    "examples": [
+                        {
+                            "id": "Tamunya bukan hanya pelajar seperti kalian.",
+                            "en": "The customers aren't just students like you."
+                        },
+                        {
+                            "id": "Bapak-bapak dan ibu-ibu sekalian, silakan masuk.",
+                            "en": "Ladies and gentlemen, please come in."
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "penjual",
+                    "meaning": "seller"
+                },
+                {
+                    "word": "nasi padang",
+                    "meaning": "Padang-style rice"
+                },
+                {
+                    "word": "kalian",
+                    "meaning": "you (plural)"
+                },
+                {
+                    "word": "lapar",
+                    "meaning": "hungry"
+                },
+                {
+                    "word": "penasaran",
+                    "meaning": "curious"
+                },
+                {
+                    "word": "pulang kampung",
+                    "meaning": "go home to village"
+                },
+                {
+                    "word": "budaya",
+                    "meaning": "culture"
+                },
+                {
+                    "word": "rendang",
+                    "meaning": "Padang meat dish"
+                }
+            ]
+        },
+        {
+            "id": "8.3",
+            "type": "lesson",
+            "title": "Uda Amir berkurban",
+            "titleEn": "Amir offers a sacrifice",
+            "content": {
+                "intro": "Uda Amir goes to a cattle market to buy a goat for Idul Adha. Learn about bargaining, counters, and imperative verbs.",
+                "dialogue": [
+                    {
+                        "speaker": "UDA AMIR",
+                        "id": "Ada kambing yang bagus untuk saya?",
+                        "en": "Do you have a good goat for me?"
+                    },
+                    {
+                        "speaker": "PENJUAL",
+                        "id": "Saya juga menjual sapi dan domba. Semuanya sehat.",
+                        "en": "I also sell cows and sheep. All healthy."
+                    },
+                    {
+                        "speaker": "UDA AMIR",
+                        "id": "Saya tidak akan membeli sapi. Terlalu mahal.",
+                        "en": "I won't buy a cow. Too expensive."
+                    },
+                    {
+                        "speaker": "PENJUAL",
+                        "id": "Harganya dua juta seratus ribu rupiah. Saya beri diskon.",
+                        "en": "The price is 2.1 million rupiah. I'll give you a discount."
+                    },
+                    {
+                        "speaker": "UDA AMIR",
+                        "id": "Tolong antar kambingnya sebelum Hari Raya.",
+                        "en": "Please deliver the goat before the holiday."
+                    }
+                ],
+                "grammar": {
+                    "title": "Counters (sebuah, seorang, seekor)",
+                    "explanation": "Indonesian uses counters: **buah** (general items), **orang** (people), **ekor** (animals), **biji** (small items), **potong** (slices). With one item, use **se-**: sebuah, seorang, seekor.",
+                    "examples": [
+                        {
+                            "id": "sebuah apel",
+                            "en": "an apple"
+                        },
+                        {
+                            "id": "seorang guru",
+                            "en": "a teacher"
+                        },
+                        {
+                            "id": "seekor kambing",
+                            "en": "a goat"
+                        },
+                        {
+                            "id": "beberapa potong kue",
+                            "en": "several slices of cake"
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "kambing",
+                    "meaning": "goat"
+                },
+                {
+                    "word": "sapi",
+                    "meaning": "cow"
+                },
+                {
+                    "word": "domba",
+                    "meaning": "sheep"
+                },
+                {
+                    "word": "mahal",
+                    "meaning": "expensive"
+                },
+                {
+                    "word": "terlalu",
+                    "meaning": "too (much)"
+                },
+                {
+                    "word": "diskon",
+                    "meaning": "discount"
+                },
+                {
+                    "word": "bayar",
+                    "meaning": "to pay"
+                },
+                {
+                    "word": "sehat",
+                    "meaning": "healthy"
+                },
+                {
+                    "word": "maaf",
+                    "meaning": "sorry"
+                }
+            ]
+        },
+        {
+            "id": "8.4",
+            "type": "lesson",
+            "title": "Perayaan Idul Adha",
+            "titleEn": "Feast of the Sacrifice",
+            "content": {
+                "intro": "Danny writes about his experience at the Idul Adha celebration. Learn the -an suffix for creating nouns from verbs.",
+                "sentences": [
+                    {
+                        "id": "Keluarga besar berkumpul di lapangan.",
+                        "en": "The extended family gathers in the field."
+                    },
+                    {
+                        "id": "Semua orang bersiap-siap untuk sholat.",
+                        "en": "Everyone gets ready for prayer."
+                    },
+                    {
+                        "id": "Sesudah sholat, semua orang bersalaman.",
+                        "en": "After prayer, everyone shakes hands."
+                    }
+                ],
+                "grammar": {
+                    "title": "Suffix -an for Nouns",
+                    "explanation": "The **-an** suffix creates nouns from base words: makanan (food, from makan), pakaian (clothing, from pakai), keluhan (complaint, from keluh).",
+                    "examples": [
+                        {
+                            "id": "makanan (dari makan)",
+                            "en": "food (from 'to eat')"
+                        },
+                        {
+                            "id": "pakaian (dari pakai)",
+                            "en": "clothing (from 'to wear')"
+                        },
+                        {
+                            "id": "potongan (dari potong)",
+                            "en": "slice (from 'to cut')"
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "keluarga besar",
+                    "meaning": "extended family"
+                },
+                {
+                    "word": "lapangan",
+                    "meaning": "field"
+                },
+                {
+                    "word": "bersalaman",
+                    "meaning": "to shake hands"
+                },
+                {
+                    "word": "bersiap-siap",
+                    "meaning": "to get ready"
+                },
+                {
+                    "word": "daging",
+                    "meaning": "meat"
+                },
+                {
+                    "word": "selesai",
+                    "meaning": "finished"
+                },
+                {
+                    "word": "berani",
+                    "meaning": "brave"
+                }
+            ]
+        }
+    ],
+    "exercises": [
+        {
+            "id": "ex-8-1",
+            "sectionRef": "8.1",
+            "type": "matching",
+            "instruction": "Match the Padang food vocabulary.",
+            "pairs": [
+                {
+                    "left": "rendang",
+                    "right": "spiced meat dish"
+                },
+                {
+                    "left": "nasi padang",
+                    "right": "Padang-style rice dish"
+                },
+                {
+                    "left": "ayam pop",
+                    "right": "skinless chicken"
+                },
+                {
+                    "left": "soto",
+                    "right": "clear soup"
+                }
+            ]
+        },
+        {
+            "id": "ex-8-2",
+            "sectionRef": "8.3",
+            "type": "matching",
+            "instruction": "Match the counter words to what they count.",
+            "pairs": [
+                {
+                    "left": "buah",
+                    "right": "general objects"
+                },
+                {
+                    "left": "orang",
+                    "right": "people"
+                },
+                {
+                    "left": "ekor",
+                    "right": "animals"
+                },
+                {
+                    "left": "biji",
+                    "right": "small items"
+                },
+                {
+                    "left": "potong",
+                    "right": "slices"
+                }
+            ]
+        },
+        {
+            "id": "ex-8-3",
+            "sectionRef": "8.4",
+            "type": "multiple_choice",
+            "instruction": "The -an suffix",
+            "questions": [
+                {
+                    "question": "What noun does 'makan' become with the -an suffix?",
+                    "options": [
+                        "makanan (food)",
+                        "dimakan (eaten)",
+                        "memakan (to eat)",
+                        "pemakan (eater)"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "question": "What does 'seekor kambing' mean?",
+                    "options": [
+                        "many goats",
+                        "a goat",
+                        "goat meat",
+                        "goat market"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "question": "What does 'terlalu mahal' mean?",
+                    "options": [
+                        "very cheap",
+                        "quite expensive",
+                        "too expensive",
+                        "not expensive"
+                    ],
+                    "answer": 2
+                }
+            ]
+        }
+    ],
+    "endOfUnitVocabulary": [
+        {
+            "word": "penjual",
+            "meaning": "seller"
+        },
+        {
+            "word": "nasi padang",
+            "meaning": "Padang-style rice"
+        },
+        {
+            "word": "kalian",
+            "meaning": "you (plural)"
+        },
+        {
+            "word": "lapar",
+            "meaning": "hungry"
+        },
+        {
+            "word": "budaya",
+            "meaning": "culture"
+        },
+        {
+            "word": "kambing",
+            "meaning": "goat"
+        },
+        {
+            "word": "sapi",
+            "meaning": "cow"
+        },
+        {
+            "word": "domba",
+            "meaning": "sheep"
+        },
+        {
+            "word": "mahal",
+            "meaning": "expensive"
+        },
+        {
+            "word": "terlalu",
+            "meaning": "too (much)"
+        },
+        {
+            "word": "bayar",
+            "meaning": "to pay"
+        },
+        {
+            "word": "sehat",
+            "meaning": "healthy"
+        },
+        {
+            "word": "maaf",
+            "meaning": "sorry"
+        },
+        {
+            "word": "daging",
+            "meaning": "meat"
+        },
+        {
+            "word": "selesai",
+            "meaning": "finished"
+        },
+        {
+            "word": "bersalaman",
+            "meaning": "to shake hands"
+        },
+        {
+            "word": "pulang kampung",
+            "meaning": "go home to village"
+        },
+        {
+            "word": "penasaran",
+            "meaning": "curious"
+        }
+    ]
+}

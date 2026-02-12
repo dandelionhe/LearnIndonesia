@@ -1,0 +1,563 @@
+{
+    "id": 5,
+    "title": "Waisak di Yogya",
+    "subtitle": "Waisak in Jogja",
+    "sections": [
+        {
+            "id": "5.1",
+            "type": "lesson",
+            "title": "Jalan-jalan ke Yogyakarta",
+            "titleEn": "Trip to Jogjakarta",
+            "content": {
+                "intro": "Adi and Danny are going on a school trip to Yogyakarta in Central Java. They chat on the bus about what they want to see.",
+                "dialogue": [
+                    {
+                        "speaker": "DANNY",
+                        "id": "Kita sudah sampai di mana, ya?",
+                        "en": "Where are we now?"
+                    },
+                    {
+                        "speaker": "ADI",
+                        "id": "Belum masuk Jawa Tengah. Mungkin daerah Tasikmalaya?",
+                        "en": "We haven't reached Central Java yet. Maybe the Tasikmalaya region?"
+                    },
+                    {
+                        "speaker": "RIRI",
+                        "id": "Masih lama ya? Aku sudah tidak sabar tiba di Yogya.",
+                        "en": "Is it still a long way? I can't wait to reach Yogya."
+                    },
+                    {
+                        "speaker": "ADI",
+                        "id": "Kalau aku, sudah pernah ke Yogya. Sekarang aku ingin ke pantai Parangtritis.",
+                        "en": "Well, I've been to Yogya before. This time I'd like to go to Parangtritis beach."
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Saya hampir tidak sabar, mau melihat Candi Borobudur.",
+                        "en": "I can't wait to see the Borobudur temple."
+                    }
+                ],
+                "grammar": {
+                    "title": "Expressing Tenses",
+                    "explanation": "Indonesian uses time markers instead of verb changes: **sudah** (already), **belum** (not yet), **masih** (still), **pernah** (ever/once). Answer 'Sudah menikah belum?' with **belum** (not yet), not *tidak*.",
+                    "examples": [
+                        {
+                            "id": "Saya sudah makan.",
+                            "en": "I have already eaten."
+                        },
+                        {
+                            "id": "Belum masuk Jawa Tengah.",
+                            "en": "We haven't reached Central Java yet."
+                        },
+                        {
+                            "id": "Saya pernah ke Sydney.",
+                            "en": "I've been to Sydney."
+                        },
+                        {
+                            "id": "Masih lama.",
+                            "en": "It's still a long way."
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "belum",
+                    "meaning": "not yet"
+                },
+                {
+                    "word": "masih",
+                    "meaning": "still"
+                },
+                {
+                    "word": "pernah",
+                    "meaning": "once, ever"
+                },
+                {
+                    "word": "ingin",
+                    "meaning": "would like, wish"
+                },
+                {
+                    "word": "hampir",
+                    "meaning": "almost"
+                },
+                {
+                    "word": "candi",
+                    "meaning": "temple (Buddhist/Hindu)"
+                },
+                {
+                    "word": "daerah",
+                    "meaning": "area, region"
+                },
+                {
+                    "word": "pantai",
+                    "meaning": "beach"
+                }
+            ]
+        },
+        {
+            "id": "5.2",
+            "type": "lesson",
+            "title": "Teman di bis",
+            "titleEn": "Friends on the bus",
+            "content": {
+                "intro": "Let's learn how to describe personality and appearance together using 'yang' for detailed descriptions.",
+                "sentences": [
+                    {
+                        "id": "Danny yang orang Australia itu berbadan kurus.",
+                        "en": "Danny, the Australian, is thin."
+                    },
+                    {
+                        "id": "Riri, yang Danny sangat suka itu, lucu dan pandai.",
+                        "en": "Riri, whom Danny really likes, is cute and clever."
+                    },
+                    {
+                        "id": "Ayu yang ibunya orang Yogyakarta itu sabar, rajin dan jujur.",
+                        "en": "Ayu, whose mother is from Yogya, is patient, diligent and honest."
+                    }
+                ],
+                "grammar": {
+                    "title": "Detailed Descriptions with Yang",
+                    "explanation": "Use **yang** ('which/that') to create detailed noun phrases. Place **itu** at the end to close the phrase. E.g., *Danny yang orang Australia itu* berbadan kurus.",
+                    "examples": [
+                        {
+                            "id": "Keluarga Adi yang baik dan ramah itu tinggal di Jakarta.",
+                            "en": "Adi's family, who are kind and friendly, lives in Jakarta."
+                        },
+                        {
+                            "id": "Cerita yang lucu ini tentang Bali.",
+                            "en": "This funny story is about Bali."
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "selalu",
+                    "meaning": "always"
+                },
+                {
+                    "word": "sangat",
+                    "meaning": "very"
+                },
+                {
+                    "word": "sedikit",
+                    "meaning": "a little"
+                },
+                {
+                    "word": "beragama",
+                    "meaning": "to have a religion"
+                },
+                {
+                    "word": "sensitif",
+                    "meaning": "sensitive"
+                },
+                {
+                    "word": "keras kepala",
+                    "meaning": "stubborn"
+                },
+                {
+                    "word": "lucu",
+                    "meaning": "cute, funny"
+                },
+                {
+                    "word": "pandai",
+                    "meaning": "clever"
+                }
+            ]
+        },
+        {
+            "id": "5.3",
+            "type": "lesson",
+            "title": "Karyawisata",
+            "titleEn": "School trips",
+            "content": {
+                "intro": "Learn to tell time using fractions: setengah (half), seperempat (quarter), lewat (past), and kurang (to).",
+                "dialogue": [
+                    {
+                        "speaker": "AYU",
+                        "id": "Besok, jam berapa kita sarapan?",
+                        "en": "Tomorrow, what time do we have breakfast?"
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Jam enam lewat seperempat.",
+                        "en": "A quarter past six."
+                    },
+                    {
+                        "speaker": "AYU",
+                        "id": "Jam berapa kita makan siang?",
+                        "en": "What time are we eating lunch?"
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Jam setengah dua belas.",
+                        "en": "Half past eleven."
+                    },
+                    {
+                        "speaker": "AYU",
+                        "id": "Jam berapa kita makan malam?",
+                        "en": "What time are we eating dinner?"
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Jam setengah delapan.",
+                        "en": "Half past seven."
+                    }
+                ],
+                "grammar": {
+                    "title": "Telling Time with Fractions",
+                    "explanation": "**setengah** = half (uses the *next* hour, e.g., setengah tiga = 2:30). **lewat** = past. **kurang** = to/less. **seperempat** = quarter.",
+                    "examples": [
+                        {
+                            "id": "Jam dua lewat seperempat.",
+                            "en": "A quarter past two."
+                        },
+                        {
+                            "id": "Jam setengah tiga.",
+                            "en": "Half past two (lit. half three)."
+                        },
+                        {
+                            "id": "Jam lima kurang seperempat.",
+                            "en": "A quarter to five."
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "besok",
+                    "meaning": "tomorrow"
+                },
+                {
+                    "word": "sarapan",
+                    "meaning": "breakfast"
+                },
+                {
+                    "word": "setengah",
+                    "meaning": "half"
+                },
+                {
+                    "word": "seperempat",
+                    "meaning": "a quarter"
+                },
+                {
+                    "word": "lewat",
+                    "meaning": "past (time)"
+                },
+                {
+                    "word": "kurang",
+                    "meaning": "less, to (the hour)"
+                },
+                {
+                    "word": "menit",
+                    "meaning": "minute"
+                }
+            ]
+        },
+        {
+            "id": "5.4",
+            "type": "lesson",
+            "title": "Pemandu wisata",
+            "titleEn": "The tour guide",
+            "content": {
+                "intro": "The students chat with their tour guide Dea at Borobudur. Learn about occupations and the peN- prefix.",
+                "dialogue": [
+                    {
+                        "speaker": "RIRI",
+                        "id": "Mbak Dea, sudah berapa lama menjadi pemandu wisata?",
+                        "en": "Dea, how long have you been a tour guide?"
+                    },
+                    {
+                        "speaker": "DEA",
+                        "id": "Saya sudah tiga tahun bekerja sebagai pemandu wisata.",
+                        "en": "I've worked for three years as a tour guide."
+                    },
+                    {
+                        "speaker": "RIRI",
+                        "id": "Apakah itu enak, menjadi pemandu wisata?",
+                        "en": "Is it enjoyable, being a tour guide?"
+                    },
+                    {
+                        "speaker": "DEA",
+                        "id": "Enak, hanya kadang-kadang capek.",
+                        "en": "It's good, only sometimes tiring."
+                    },
+                    {
+                        "speaker": "DEA",
+                        "id": "Kedua orang tua saya petani. Kakak saya pegawai negeri dan adik saya pelukis!",
+                        "en": "Both my parents are farmers. My sibling is a civil servant and the other is an artist!"
+                    }
+                ],
+                "grammar": {
+                    "title": "Pe-/PeN- Prefix for Occupations",
+                    "explanation": "The **pe-/peN-** prefix turns a verb/noun into a 'doer': petani (farmer, from tani), pemandu (guide), pelukis (painter), pegawai (employee).",
+                    "examples": [
+                        {
+                            "id": "petani",
+                            "en": "farmer (from tani = farming)"
+                        },
+                        {
+                            "id": "pemandu wisata",
+                            "en": "tour guide (from pandu = guide)"
+                        },
+                        {
+                            "id": "pelukis",
+                            "en": "painter (from lukis = paint)"
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "pemandu wisata",
+                    "meaning": "tour guide"
+                },
+                {
+                    "word": "petani",
+                    "meaning": "farmer"
+                },
+                {
+                    "word": "pegawai negeri",
+                    "meaning": "civil servant"
+                },
+                {
+                    "word": "pelukis",
+                    "meaning": "painter, artist"
+                },
+                {
+                    "word": "dokter",
+                    "meaning": "doctor"
+                },
+                {
+                    "word": "insinyur",
+                    "meaning": "engineer"
+                },
+                {
+                    "word": "pengacara",
+                    "meaning": "lawyer"
+                },
+                {
+                    "word": "perawat",
+                    "meaning": "nurse"
+                },
+                {
+                    "word": "kadang-kadang",
+                    "meaning": "sometimes"
+                }
+            ]
+        }
+    ],
+    "exercises": [
+        {
+            "id": "ex-5-1",
+            "sectionRef": "5.1",
+            "type": "matching",
+            "instruction": "Match the time markers.",
+            "pairs": [
+                {
+                    "left": "sudah",
+                    "right": "already"
+                },
+                {
+                    "left": "belum",
+                    "right": "not yet"
+                },
+                {
+                    "left": "masih",
+                    "right": "still"
+                },
+                {
+                    "left": "pernah",
+                    "right": "once / ever"
+                },
+                {
+                    "left": "ingin",
+                    "right": "would like"
+                }
+            ]
+        },
+        {
+            "id": "ex-5-2",
+            "sectionRef": "5.3",
+            "type": "multiple_choice",
+            "instruction": "Telling time",
+            "questions": [
+                {
+                    "question": "What does 'jam setengah tiga' mean?",
+                    "options": [
+                        "3:30",
+                        "2:30",
+                        "2:15",
+                        "3:15"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "question": "How do you say 'a quarter to five' in Indonesian?",
+                    "options": [
+                        "jam lima lewat seperempat",
+                        "jam lima kurang seperempat",
+                        "jam setengah lima",
+                        "jam empat seperempat"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "question": "What does 'lewat' mean when telling time?",
+                    "options": [
+                        "less",
+                        "half",
+                        "past",
+                        "to"
+                    ],
+                    "answer": 2
+                }
+            ]
+        },
+        {
+            "id": "ex-5-3",
+            "sectionRef": "5.4",
+            "type": "matching",
+            "instruction": "Match occupations to their meanings.",
+            "pairs": [
+                {
+                    "left": "petani",
+                    "right": "farmer"
+                },
+                {
+                    "left": "pemandu wisata",
+                    "right": "tour guide"
+                },
+                {
+                    "left": "pegawai negeri",
+                    "right": "civil servant"
+                },
+                {
+                    "left": "pelukis",
+                    "right": "painter/artist"
+                },
+                {
+                    "left": "dokter",
+                    "right": "doctor"
+                }
+            ]
+        },
+        {
+            "id": "ex-5-4",
+            "sectionRef": "5.1",
+            "type": "fill_blank",
+            "instruction": "Complete with sudah, belum, masih, or pernah.",
+            "questions": [
+                {
+                    "sentence": "Saya _____ ke Indonesia. (I have been to Indonesia.)",
+                    "answer": "pernah",
+                    "hint": "ever / once"
+                },
+                {
+                    "sentence": "_____ lama ya? (Is it still far?)",
+                    "answer": "Masih",
+                    "hint": "still"
+                }
+            ]
+        }
+    ],
+    "endOfUnitVocabulary": [
+        {
+            "word": "belum",
+            "meaning": "not yet"
+        },
+        {
+            "word": "masih",
+            "meaning": "still"
+        },
+        {
+            "word": "pernah",
+            "meaning": "once, ever"
+        },
+        {
+            "word": "ingin",
+            "meaning": "would like, wish"
+        },
+        {
+            "word": "hampir",
+            "meaning": "almost"
+        },
+        {
+            "word": "candi",
+            "meaning": "temple"
+        },
+        {
+            "word": "daerah",
+            "meaning": "area, region"
+        },
+        {
+            "word": "pantai",
+            "meaning": "beach"
+        },
+        {
+            "word": "selalu",
+            "meaning": "always"
+        },
+        {
+            "word": "sangat",
+            "meaning": "very"
+        },
+        {
+            "word": "setengah",
+            "meaning": "half"
+        },
+        {
+            "word": "seperempat",
+            "meaning": "a quarter"
+        },
+        {
+            "word": "lewat",
+            "meaning": "past (time)"
+        },
+        {
+            "word": "kurang",
+            "meaning": "less, to (the hour)"
+        },
+        {
+            "word": "pemandu wisata",
+            "meaning": "tour guide"
+        },
+        {
+            "word": "petani",
+            "meaning": "farmer"
+        },
+        {
+            "word": "dokter",
+            "meaning": "doctor"
+        },
+        {
+            "word": "kadang-kadang",
+            "meaning": "sometimes"
+        },
+        {
+            "word": "kalau",
+            "meaning": "if; when"
+        },
+        {
+            "word": "bagus",
+            "meaning": "good"
+        },
+        {
+            "word": "belok",
+            "meaning": "to turn"
+        },
+        {
+            "word": "keluar",
+            "meaning": "to go out"
+        },
+        {
+            "word": "masuk",
+            "meaning": "to go in, enter"
+        },
+        {
+            "word": "pasar",
+            "meaning": "market"
+        }
+    ]
+}

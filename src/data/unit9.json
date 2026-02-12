@@ -1,0 +1,373 @@
+{
+    "id": 9,
+    "title": "Merdeka!",
+    "subtitle": "Independence!",
+    "sections": [
+        {
+            "id": "9.1",
+            "type": "lesson",
+            "title": "Sukarno",
+            "titleEn": "Sukarno",
+            "content": {
+                "intro": "August 17, 1945 is Indonesia's Independence Day. Learn about the nation's founding father Sukarno and the memper- verb prefix.",
+                "sentences": [
+                    {
+                        "id": "Soekarno adalah pemimpin pemuda Indonesia.",
+                        "en": "Sukarno was an Indonesian youth leader."
+                    },
+                    {
+                        "id": "Soekarno berhasil mempersatukan orang-orang berbeda budaya.",
+                        "en": "Sukarno succeeded in uniting people from different cultures."
+                    },
+                    {
+                        "id": "Soekarno dan Hatta memproklamasikan kemerdekaan Indonesia.",
+                        "en": "Sukarno and Hatta proclaimed Indonesian independence."
+                    }
+                ],
+                "grammar": {
+                    "title": "The Memper- Prefix",
+                    "explanation": "**Memper-** extends the meaning of meN- verbs: menyatukan (make one) → **mempersatukan** (unite many), memanjang (grow long) → **memperpanjang** (extend).",
+                    "examples": [
+                        {
+                            "id": "mempersatukan",
+                            "en": "to unite (many things)"
+                        },
+                        {
+                            "id": "memperpanjang",
+                            "en": "to extend, make longer"
+                        },
+                        {
+                            "id": "memproklamasikan",
+                            "en": "to proclaim"
+                        }
+                    ]
+                },
+                "culturalNote": "Indonesia declared independence on August 17, 1945. Sukarno and Hatta became the first President and Vice President."
+            },
+            "vocabulary": [
+                {
+                    "word": "pemimpin",
+                    "meaning": "leader"
+                },
+                {
+                    "word": "kemerdekaan",
+                    "meaning": "independence"
+                },
+                {
+                    "word": "perjuangan",
+                    "meaning": "struggle"
+                },
+                {
+                    "word": "damai",
+                    "meaning": "peaceful"
+                },
+                {
+                    "word": "sedih",
+                    "meaning": "sad"
+                },
+                {
+                    "word": "pemerintah",
+                    "meaning": "government"
+                },
+                {
+                    "word": "proklamasi",
+                    "meaning": "proclamation"
+                },
+                {
+                    "word": "pahlawan",
+                    "meaning": "hero"
+                }
+            ]
+        },
+        {
+            "id": "9.2",
+            "type": "lesson",
+            "title": "Bukan atau tidak?",
+            "titleEn": "Bukan or tidak?",
+            "content": {
+                "intro": "Learn when to use bukan vs tidak for negation, and the walaupun...tetapi construction for concession.",
+                "sentences": [
+                    {
+                        "id": "Program itu bagus tapi tidak tertib.",
+                        "en": "The program is good but not orderly."
+                    },
+                    {
+                        "id": "Dia sudah bukan seorang presiden lagi.",
+                        "en": "He was no longer a president."
+                    }
+                ],
+                "grammar": {
+                    "title": "Bukan vs Tidak",
+                    "explanation": "**Tidak** negates adjectives and verbs: tidak baik (not good), tidak menang (didn't win). **Bukan** negates nouns: bukan presiden (not a president). Use **walaupun...tetapi** for 'although...but'.",
+                    "examples": [
+                        {
+                            "id": "Tidak ada yang menang.",
+                            "en": "Nobody won."
+                        },
+                        {
+                            "id": "Dia bukan guru.",
+                            "en": "He is not a teacher."
+                        },
+                        {
+                            "id": "Walaupun sudah sore, tetapi dia masih mau bermain.",
+                            "en": "Although it was late, he still wanted to play."
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "walaupun",
+                    "meaning": "although"
+                },
+                {
+                    "word": "tetapi",
+                    "meaning": "but, however"
+                },
+                {
+                    "word": "gelar",
+                    "meaning": "title"
+                },
+                {
+                    "word": "wakil",
+                    "meaning": "deputy, vice"
+                },
+                {
+                    "word": "sakit",
+                    "meaning": "ill, sick"
+                },
+                {
+                    "word": "meninggal dunia",
+                    "meaning": "to die"
+                }
+            ]
+        },
+        {
+            "id": "9.4",
+            "type": "lesson",
+            "title": "Cuaca hari ini",
+            "titleEn": "Today's weather",
+            "content": {
+                "intro": "Learn to talk about weather in Indonesian. Indonesia has two main seasons: musim hujan (wet) and musim kemarau (dry).",
+                "sentences": [
+                    {
+                        "id": "Hari ini cuaca akan cerah di pagi hari.",
+                        "en": "Today the weather will be fine in the morning."
+                    },
+                    {
+                        "id": "Hujan akan turun di sore hari.",
+                        "en": "Rain will fall in the afternoon."
+                    },
+                    {
+                        "id": "Disarankan untuk membawa payung.",
+                        "en": "It is recommended to bring an umbrella."
+                    }
+                ],
+                "grammar": {
+                    "title": "Prepositions",
+                    "explanation": "Key prepositions: **di** (at/in), **ke** (to), **dari** (from), **dalam** (inside), **luar** (outside), **atas** (above), **bawah** (below), **depan** (front), **belakang** (behind).",
+                    "examples": [
+                        {
+                            "id": "di dalam ruangan",
+                            "en": "indoors"
+                        },
+                        {
+                            "id": "di luar",
+                            "en": "outside"
+                        },
+                        {
+                            "id": "dari daerah berbeda-beda",
+                            "en": "from different areas"
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "cuaca",
+                    "meaning": "weather"
+                },
+                {
+                    "word": "cerah",
+                    "meaning": "sunny, bright"
+                },
+                {
+                    "word": "mendung",
+                    "meaning": "cloudy"
+                },
+                {
+                    "word": "hujan",
+                    "meaning": "rain"
+                },
+                {
+                    "word": "payung",
+                    "meaning": "umbrella"
+                },
+                {
+                    "word": "jas",
+                    "meaning": "jacket, coat"
+                },
+                {
+                    "word": "panas",
+                    "meaning": "hot"
+                },
+                {
+                    "word": "dingin",
+                    "meaning": "cold"
+                }
+            ]
+        }
+    ],
+    "exercises": [
+        {
+            "id": "ex-9-1",
+            "sectionRef": "9.2",
+            "type": "multiple_choice",
+            "instruction": "Bukan or tidak?",
+            "questions": [
+                {
+                    "question": "How do you say 'He is not a student'?",
+                    "options": [
+                        "Dia tidak murid",
+                        "Dia bukan murid",
+                        "Dia jangan murid",
+                        "Dia belum murid"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "question": "How do you say 'It's not good'?",
+                    "options": [
+                        "Bukan baik",
+                        "Tidak baik",
+                        "Belum baik",
+                        "Jangan baik"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "question": "What does 'walaupun' mean?",
+                    "options": [
+                        "because",
+                        "although",
+                        "therefore",
+                        "so that"
+                    ],
+                    "answer": 1
+                }
+            ]
+        },
+        {
+            "id": "ex-9-2",
+            "sectionRef": "9.4",
+            "type": "matching",
+            "instruction": "Match the weather vocabulary.",
+            "pairs": [
+                {
+                    "left": "cerah",
+                    "right": "sunny"
+                },
+                {
+                    "left": "mendung",
+                    "right": "cloudy"
+                },
+                {
+                    "left": "hujan",
+                    "right": "rain"
+                },
+                {
+                    "left": "payung",
+                    "right": "umbrella"
+                },
+                {
+                    "left": "panas",
+                    "right": "hot"
+                }
+            ]
+        },
+        {
+            "id": "ex-9-3",
+            "sectionRef": "9.1",
+            "type": "fill_blank",
+            "instruction": "Complete with the correct word.",
+            "questions": [
+                {
+                    "sentence": "Soekarno berhasil mem_____kan orang-orang. (to unite)",
+                    "answer": "persatu",
+                    "hint": "memper + satu + kan"
+                },
+                {
+                    "sentence": "Soekarno dan Hatta mem_____kan kemerdekaan. (to proclaim)",
+                    "answer": "proklamasi",
+                    "hint": "memper + proklamasi + kan"
+                }
+            ]
+        }
+    ],
+    "endOfUnitVocabulary": [
+        {
+            "word": "pemimpin",
+            "meaning": "leader"
+        },
+        {
+            "word": "kemerdekaan",
+            "meaning": "independence"
+        },
+        {
+            "word": "perjuangan",
+            "meaning": "struggle"
+        },
+        {
+            "word": "damai",
+            "meaning": "peaceful"
+        },
+        {
+            "word": "pahlawan",
+            "meaning": "hero"
+        },
+        {
+            "word": "walaupun",
+            "meaning": "although"
+        },
+        {
+            "word": "cuaca",
+            "meaning": "weather"
+        },
+        {
+            "word": "cerah",
+            "meaning": "sunny"
+        },
+        {
+            "word": "mendung",
+            "meaning": "cloudy"
+        },
+        {
+            "word": "payung",
+            "meaning": "umbrella"
+        },
+        {
+            "word": "panas",
+            "meaning": "hot"
+        },
+        {
+            "word": "dingin",
+            "meaning": "cold"
+        },
+        {
+            "word": "sedih",
+            "meaning": "sad"
+        },
+        {
+            "word": "pemerintah",
+            "meaning": "government"
+        },
+        {
+            "word": "seru",
+            "meaning": "fun, exciting"
+        },
+        {
+            "word": "sepeda",
+            "meaning": "bicycle"
+        }
+    ]
+}

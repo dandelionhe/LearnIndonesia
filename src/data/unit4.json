@@ -1,0 +1,547 @@
+{
+    "id": 4,
+    "title": "Ibu Kita Kartini",
+    "subtitle": "Our Mother Kartini",
+    "sections": [
+        {
+            "id": "4.1",
+            "type": "lesson",
+            "title": "Hari Kartini",
+            "titleEn": "Kartini Day",
+            "content": {
+                "intro": "On 21 April, Indonesians celebrate Kartini Day. Kartini was an early fighter for women's rights who established a school for Javanese girls.",
+                "sentences": [
+                    {
+                        "id": "Tanggal 21 April adalah Hari Kartini.",
+                        "en": "21 April is Kartini Day."
+                    },
+                    {
+                        "id": "Kartini adalah pahlawan nasional Indonesia.",
+                        "en": "Kartini is an Indonesian national hero."
+                    },
+                    {
+                        "id": "Anak-anak merayakan Hari Kartini dengan memakai baju adat.",
+                        "en": "Children celebrate Kartini Day by wearing traditional dress."
+                    },
+                    {
+                        "id": "Di SMA 3, Adi dan Danny ikut acaranya sambil bernyanyi.",
+                        "en": "At SMA 3, Adi and Danny join in the proceedings by singing."
+                    }
+                ],
+                "grammar": {
+                    "title": "Plurals in Indonesian",
+                    "explanation": "There are two ways to show a word is plural: **doubling** (anak → anak-anak) and using **para** before a noun (para guru = the teachers). Sometimes context alone indicates plural without any marker.",
+                    "examples": [
+                        {
+                            "id": "anak-anak",
+                            "en": "children (doubled form of anak)"
+                        },
+                        {
+                            "id": "rumah-rumah",
+                            "en": "houses (doubled form of rumah)"
+                        },
+                        {
+                            "id": "para guru",
+                            "en": "the teachers (formal plural)"
+                        }
+                    ]
+                },
+                "culturalNote": "Raden Ajeng Kartini was born into an aristocratic Javanese family on 21 April 1879. She attended a Dutch school and later set up a local school for girls. She tragically died in childbirth at the age of 24."
+            },
+            "vocabulary": [
+                {
+                    "word": "pahlawan",
+                    "meaning": "hero"
+                },
+                {
+                    "word": "nasional",
+                    "meaning": "national"
+                },
+                {
+                    "word": "adat",
+                    "meaning": "tradition, traditional"
+                },
+                {
+                    "word": "para",
+                    "meaning": "more than one (plural marker)"
+                },
+                {
+                    "word": "guru",
+                    "meaning": "teacher"
+                },
+                {
+                    "word": "sambil",
+                    "meaning": "while (doing something)"
+                },
+                {
+                    "word": "bernyanyi",
+                    "meaning": "to sing"
+                },
+                {
+                    "word": "acara",
+                    "meaning": "event, proceedings"
+                }
+            ]
+        },
+        {
+            "id": "4.3",
+            "type": "lesson",
+            "title": "Tentang keluarga Adi",
+            "titleEn": "More about Adi's family",
+            "content": {
+                "intro": "Let's learn how to describe people's physical appearance in Indonesian.",
+                "sentences": [
+                    {
+                        "id": "Ibunya Adi kurus. Dia berkulit terang dan berambut hitam.",
+                        "en": "Adi's mother is thin. She has light skin and black hair."
+                    },
+                    {
+                        "id": "Ayahnya Adi tinggi besar. Dia berkulit gelap.",
+                        "en": "Adi's father is big and tall. He has dark skin."
+                    },
+                    {
+                        "id": "Hari dan Sena itu kembar.",
+                        "en": "Hari and Sena are twins."
+                    },
+                    {
+                        "id": "Adiknya Adi, Nina, berbadan kecil dan berkulit gelap.",
+                        "en": "Adi's younger sister, Nina, is small and dark-skinned."
+                    }
+                ],
+                "grammar": {
+                    "title": "Ber- Verbs for Descriptions",
+                    "explanation": "Use **ber-** verbs to describe physical features: **berkulit** (to have skin), **berambut** (to have hair), **berbadan** (to have a body).",
+                    "examples": [
+                        {
+                            "id": "Danny berkulit terang.",
+                            "en": "Danny has light skin."
+                        },
+                        {
+                            "id": "Nina berambut hitam.",
+                            "en": "Nina has black hair."
+                        },
+                        {
+                            "id": "Adi berbadan kurus.",
+                            "en": "Adi has a thin body."
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "kurus",
+                    "meaning": "thin"
+                },
+                {
+                    "word": "gemuk",
+                    "meaning": "fat"
+                },
+                {
+                    "word": "tinggi",
+                    "meaning": "tall, high"
+                },
+                {
+                    "word": "pendek",
+                    "meaning": "short"
+                },
+                {
+                    "word": "berkulit",
+                    "meaning": "-skinned"
+                },
+                {
+                    "word": "terang",
+                    "meaning": "light, bright"
+                },
+                {
+                    "word": "gelap",
+                    "meaning": "dark"
+                },
+                {
+                    "word": "berambut",
+                    "meaning": "to have hair"
+                },
+                {
+                    "word": "hitam",
+                    "meaning": "black"
+                },
+                {
+                    "word": "kembar",
+                    "meaning": "twin(s)"
+                }
+            ]
+        },
+        {
+            "id": "4.4",
+            "type": "lesson",
+            "title": "Pernikahan keluarga",
+            "titleEn": "A family wedding",
+            "content": {
+                "intro": "Adi and his parents are invited to a family wedding in Bandung. Adi is helping his mother find her mobile phone.",
+                "dialogue": [
+                    {
+                        "speaker": "IBU",
+                        "id": "Di mana HP Ibu?",
+                        "en": "Where's my mobile?"
+                    },
+                    {
+                        "speaker": "ADI",
+                        "id": "Di sini tidak ada.",
+                        "en": "It's not here."
+                    },
+                    {
+                        "speaker": "IBU",
+                        "id": "Tidak ada di meja?",
+                        "en": "Not on the table?"
+                    },
+                    {
+                        "speaker": "ADI",
+                        "id": "Tidak ada. Di sini hanya ada buku, HP Adi dan tempat pensil.",
+                        "en": "It's not here. Here there's only a book, my mobile and a pencil case."
+                    },
+                    {
+                        "speaker": "IBU",
+                        "id": "Ya, tapi Ibu melihat HP Ibu di situ tadi malam.",
+                        "en": "Yes, but I saw my mobile there last night."
+                    },
+                    {
+                        "speaker": "ADI",
+                        "id": "Apakah HP Ibu ada di mobil?",
+                        "en": "Is your mobile in the car?"
+                    },
+                    {
+                        "speaker": "IBU",
+                        "id": "Tidak. Ibu sudah lihat di sana. Tidak ada.",
+                        "en": "No. I've already looked there. It's not there."
+                    }
+                ],
+                "grammar": {
+                    "title": "Sini, Situ, Sana",
+                    "explanation": "Like **ini/itu**, location words follow the same pattern: **di sini** = here (where I am), **di situ** = there (where you are), **di sana** = over there (far away).",
+                    "examples": [
+                        {
+                            "id": "Buku Adi di sini.",
+                            "en": "Adi's book is here."
+                        },
+                        {
+                            "id": "Pintu di situ.",
+                            "en": "The door is there."
+                        },
+                        {
+                            "id": "Pulau Bali di sana.",
+                            "en": "Bali is over there."
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "HP",
+                    "meaning": "mobile phone"
+                },
+                {
+                    "word": "meja",
+                    "meaning": "table"
+                },
+                {
+                    "word": "tidak",
+                    "meaning": "not, no"
+                },
+                {
+                    "word": "hanya",
+                    "meaning": "only"
+                },
+                {
+                    "word": "tapi",
+                    "meaning": "but"
+                },
+                {
+                    "word": "melihat",
+                    "meaning": "to see"
+                },
+                {
+                    "word": "sekarang",
+                    "meaning": "now"
+                },
+                {
+                    "word": "mobil",
+                    "meaning": "car"
+                },
+                {
+                    "word": "kamar",
+                    "meaning": "room"
+                }
+            ]
+        },
+        {
+            "id": "4.5",
+            "type": "lesson",
+            "title": "Jam berapa sekarang?",
+            "titleEn": "What time is it?",
+            "content": {
+                "intro": "Learn to tell time using the 12-hour clock and periods of the day. Use **dari** (from) and **sampai** (to/until) for time ranges.",
+                "sentences": [
+                    {
+                        "id": "Jam delapan sampai sembilan.",
+                        "en": "From 8 to 9 o'clock."
+                    },
+                    {
+                        "id": "Jam tujuh pagi.",
+                        "en": "7 o'clock in the morning."
+                    },
+                    {
+                        "id": "Jam dua belas siang.",
+                        "en": "12 o'clock noon."
+                    }
+                ],
+                "grammar": {
+                    "title": "Passive di- Verbs",
+                    "explanation": "The passive **di-** form shifts focus to the object. Active: Subject + meN-verb + Object. Passive: Object + di-verb (+ oleh Subject). The **di-** prefix never changes — just add it to the base word.",
+                    "examples": [
+                        {
+                            "id": "Akad nikah dilaksanakan di rumah Ranti.",
+                            "en": "The ceremony was held at Ranti's home."
+                        },
+                        {
+                            "id": "Danny dijemput oleh kakaknya Nyoman.",
+                            "en": "Danny was picked up by Nyoman's brother."
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "jam",
+                    "meaning": "hour, o'clock"
+                },
+                {
+                    "word": "pagi",
+                    "meaning": "morning"
+                },
+                {
+                    "word": "siang",
+                    "meaning": "midday"
+                },
+                {
+                    "word": "sore",
+                    "meaning": "afternoon"
+                },
+                {
+                    "word": "malam",
+                    "meaning": "evening, night"
+                },
+                {
+                    "word": "sampai",
+                    "meaning": "to, until"
+                },
+                {
+                    "word": "lebih",
+                    "meaning": "more"
+                }
+            ]
+        }
+    ],
+    "exercises": [
+        {
+            "id": "ex-4-1",
+            "sectionRef": "4.1",
+            "type": "matching",
+            "instruction": "Match the Indonesian to its English meaning.",
+            "pairs": [
+                {
+                    "left": "pahlawan",
+                    "right": "hero"
+                },
+                {
+                    "left": "guru",
+                    "right": "teacher"
+                },
+                {
+                    "left": "bernyanyi",
+                    "right": "to sing"
+                },
+                {
+                    "left": "sambil",
+                    "right": "while"
+                },
+                {
+                    "left": "adat",
+                    "right": "tradition"
+                }
+            ]
+        },
+        {
+            "id": "ex-4-2",
+            "sectionRef": "4.3",
+            "type": "multiple_choice",
+            "instruction": "Physical descriptions",
+            "questions": [
+                {
+                    "question": "What does 'berkulit gelap' mean?",
+                    "options": [
+                        "light-skinned",
+                        "dark-skinned",
+                        "thin-bodied",
+                        "black-haired"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "question": "How do you say 'twins' in Indonesian?",
+                    "options": [
+                        "kurus",
+                        "kembar",
+                        "gemuk",
+                        "pendek"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the opposite of 'tinggi'?",
+                    "options": [
+                        "kurus",
+                        "gemuk",
+                        "pendek",
+                        "gelap"
+                    ],
+                    "answer": 2
+                }
+            ]
+        },
+        {
+            "id": "ex-4-3",
+            "sectionRef": "4.4",
+            "type": "matching",
+            "instruction": "Match the location words.",
+            "pairs": [
+                {
+                    "left": "di sini",
+                    "right": "here (where I am)"
+                },
+                {
+                    "left": "di situ",
+                    "right": "there (where you are)"
+                },
+                {
+                    "left": "di sana",
+                    "right": "over there (far away)"
+                }
+            ]
+        },
+        {
+            "id": "ex-4-4",
+            "sectionRef": "4.5",
+            "type": "fill_blank",
+            "instruction": "Fill in the passive di- form.",
+            "questions": [
+                {
+                    "sentence": "Akad nikah _____ di rumah Ranti. (laksanakan)",
+                    "answer": "dilaksanakan",
+                    "hint": "add di- prefix"
+                },
+                {
+                    "sentence": "Danny _____ oleh kakaknya Nyoman. (jemput)",
+                    "answer": "dijemput",
+                    "hint": "add di- prefix"
+                }
+            ]
+        }
+    ],
+    "endOfUnitVocabulary": [
+        {
+            "word": "pahlawan",
+            "meaning": "hero"
+        },
+        {
+            "word": "nasional",
+            "meaning": "national"
+        },
+        {
+            "word": "adat",
+            "meaning": "tradition"
+        },
+        {
+            "word": "anak-anak",
+            "meaning": "children"
+        },
+        {
+            "word": "guru",
+            "meaning": "teacher"
+        },
+        {
+            "word": "bernyanyi",
+            "meaning": "to sing"
+        },
+        {
+            "word": "kurus",
+            "meaning": "thin"
+        },
+        {
+            "word": "gemuk",
+            "meaning": "fat"
+        },
+        {
+            "word": "tinggi",
+            "meaning": "tall, high"
+        },
+        {
+            "word": "pendek",
+            "meaning": "short"
+        },
+        {
+            "word": "berkulit",
+            "meaning": "-skinned"
+        },
+        {
+            "word": "terang",
+            "meaning": "light, bright"
+        },
+        {
+            "word": "gelap",
+            "meaning": "dark"
+        },
+        {
+            "word": "hitam",
+            "meaning": "black"
+        },
+        {
+            "word": "kembar",
+            "meaning": "twin(s)"
+        },
+        {
+            "word": "HP",
+            "meaning": "mobile phone"
+        },
+        {
+            "word": "meja",
+            "meaning": "table"
+        },
+        {
+            "word": "melihat",
+            "meaning": "to see"
+        },
+        {
+            "word": "sekarang",
+            "meaning": "now"
+        },
+        {
+            "word": "mobil",
+            "meaning": "car"
+        },
+        {
+            "word": "tapi",
+            "meaning": "but"
+        },
+        {
+            "word": "jam",
+            "meaning": "hour, o'clock"
+        },
+        {
+            "word": "lebih",
+            "meaning": "more"
+        },
+        {
+            "word": "sambil",
+            "meaning": "while"
+        }
+    ]
+}

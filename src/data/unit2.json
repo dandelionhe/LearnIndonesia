@@ -1,0 +1,298 @@
+{
+    "id": 2,
+    "title": "Di Kampung dan Di Kota",
+    "subtitle": "In the Country and the City",
+    "sections": [
+        {
+            "id": "2.1",
+            "type": "lesson",
+            "title": "Bermain sandiwara",
+            "titleEn": "Acting in a play",
+            "content": {
+                "intro": "Riri meets Danny for the first time. Let's see how they introduce themselves and talk about their backgrounds.",
+                "dialogue": [
+                    {
+                        "speaker": "RIRI",
+                        "id": "Halo, siapa namanya?",
+                        "en": "Hello, what's your name?"
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Nama saya Danny.",
+                        "en": "My name is Danny."
+                    },
+                    {
+                        "speaker": "RIRI",
+                        "id": "Apa kabar?",
+                        "en": "How are you?"
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Baik-baik saja.",
+                        "en": "Just fine."
+                    },
+                    {
+                        "speaker": "RIRI",
+                        "id": "Danny berasal dari mana?",
+                        "en": "Where are you from, Danny?"
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Saya berasal dari Australia.",
+                        "en": "I come from Australia."
+                    },
+                    {
+                        "speaker": "RIRI",
+                        "id": "Riri berasal dari mana?",
+                        "en": "Where are you from, Riri?"
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Saya berasal dari Lombok.",
+                        "en": "I come from Lombok."
+                    }
+                ],
+                "grammar": {
+                    "title": "Prefix Ber-",
+                    "explanation": "The prefix **ber-** usually shows that a word is a verb (intransitive, no object). It often means 'to have' something or 'to be' something.",
+                    "examples": [
+                        {
+                            "id": "Adi berkawan banyak.",
+                            "en": "Adi has many friends."
+                        },
+                        {
+                            "id": "Danny bermain sandiwara.",
+                            "en": "Danny acts in a play."
+                        },
+                        {
+                            "id": "Saya berasal dari Australia.",
+                            "en": "I come from Australia."
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "bermain",
+                    "meaning": "to play / to act"
+                },
+                {
+                    "word": "sandiwara",
+                    "meaning": "play / drama"
+                },
+                {
+                    "word": "berkawan",
+                    "meaning": "to have friends"
+                },
+                {
+                    "word": "berasal",
+                    "meaning": "to come from"
+                }
+            ]
+        },
+        {
+            "id": "2.2",
+            "type": "lesson",
+            "title": "Angka 11–20",
+            "titleEn": "Numbers 11–20",
+            "content": {
+                "intro": "Numbers 11–19 end with **-belas** (teen). 20 is **dua puluh**.",
+                "sentences": [
+                    {
+                        "id": "sebelas",
+                        "en": "eleven"
+                    },
+                    {
+                        "id": "dua belas",
+                        "en": "twelve"
+                    },
+                    {
+                        "id": "tiga belas",
+                        "en": "thirteen"
+                    },
+                    {
+                        "id": "empat belas",
+                        "en": "fourteen"
+                    },
+                    {
+                        "id": "dua puluh",
+                        "en": "twenty"
+                    }
+                ]
+            },
+            "vocabulary": [
+                {
+                    "word": "belas",
+                    "meaning": "teen"
+                },
+                {
+                    "word": "puluh",
+                    "meaning": "ten / decade"
+                }
+            ]
+        },
+        {
+            "id": "2.4",
+            "type": "lesson",
+            "title": "Putri Mandalika",
+            "titleEn": "Princess Mandalika",
+            "content": {
+                "intro": "The legend of Princess Mandalika from Lombok. She was so beautiful that many princes wanted to marry her.",
+                "sentences": [
+                    {
+                        "id": "Mandalika adalah putri cantik dari kerajaan di Lombok.",
+                        "en": "Mandalika was a beautiful princess from a kingdom in Lombok."
+                    },
+                    {
+                        "id": "Ada banyak pangeran muda yang cinta Mandalika.",
+                        "en": "There were lots of young princes who loved Mandalika."
+                    },
+                    {
+                        "id": "Akhirnya Mandalika berubah menjadi nyalé.",
+                        "en": "Finally, Mandalika turned into a sea-worm."
+                    }
+                ],
+                "grammar": {
+                    "title": "Connector 'Yang'",
+                    "explanation": "**Yang** means 'which' or 'that'. It links phrases like a relative clause.",
+                    "examples": [
+                        {
+                            "id": "Pangeran yang muda.",
+                            "en": "The prince who is young."
+                        },
+                        {
+                            "id": "Putri yang cantik.",
+                            "en": "The princess who is beautiful."
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "putri",
+                    "meaning": "princess"
+                },
+                {
+                    "word": "cerita",
+                    "meaning": "story"
+                },
+                {
+                    "word": "nyalé",
+                    "meaning": "sea-worm"
+                },
+                {
+                    "word": "berubah",
+                    "meaning": "to change"
+                }
+            ]
+        }
+    ],
+    "exercises": [
+        {
+            "id": "ex-2-1",
+            "sectionRef": "2.1",
+            "type": "matching",
+            "instruction": "Match the meaning",
+            "pairs": [
+                {
+                    "left": "bermain",
+                    "right": "to play/act"
+                },
+                {
+                    "left": "berkawan",
+                    "right": "to have friends"
+                },
+                {
+                    "left": "belajar",
+                    "right": "to study"
+                },
+                {
+                    "left": "berasal",
+                    "right": "to come from"
+                }
+            ]
+        },
+        {
+            "id": "ex-2-2",
+            "sectionRef": "2.1",
+            "type": "multiple_choice",
+            "instruction": "Choose the correct answer",
+            "questions": [
+                {
+                    "question": "What does 'berjudul' mean?",
+                    "options": [
+                        "To be named",
+                        "To be titled",
+                        "To sell",
+                        "To buy"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "question": "Danny _____ dari Australia.",
+                    "options": [
+                        "bermain",
+                        "berasal",
+                        "berkawan",
+                        "belajar"
+                    ],
+                    "answer": 1
+                }
+            ]
+        }
+    ],
+    "endOfUnitVocabulary": [
+        {
+            "word": "bermain",
+            "meaning": "to play / to act"
+        },
+        {
+            "word": "sandiwara",
+            "meaning": "play / drama"
+        },
+        {
+            "word": "berkawan",
+            "meaning": "to have friends"
+        },
+        {
+            "word": "berasal",
+            "meaning": "to come from"
+        },
+        {
+            "word": "judul",
+            "meaning": "title"
+        },
+        {
+            "word": "putri",
+            "meaning": "princess"
+        },
+        {
+            "word": "cerita",
+            "meaning": "story"
+        },
+        {
+            "word": "nyalé",
+            "meaning": "sea-worm"
+        },
+        {
+            "word": "puluh",
+            "meaning": "ten / decade"
+        },
+        {
+            "word": "belas",
+            "meaning": "teen"
+        },
+        {
+            "word": "sebelas",
+            "meaning": "eleven"
+        },
+        {
+            "word": "dua puluh",
+            "meaning": "twenty"
+        },
+        {
+            "word": "cantik",
+            "meaning": "beautiful"
+        }
+    ]
+}

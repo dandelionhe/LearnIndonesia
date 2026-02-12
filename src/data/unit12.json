@@ -1,0 +1,341 @@
+{
+    "id": 12,
+    "title": "Selamat Natal dan Tahun Baru",
+    "subtitle": "Merry Christmas and Happy New Year",
+    "sections": [
+        {
+            "id": "12.1",
+            "type": "lesson",
+            "title": "Kartu Natal",
+            "titleEn": "Christmas cards",
+            "content": {
+                "intro": "Danny needs help writing a Christmas card. Learn bahwa (that) for complex sentences and names as pronouns.",
+                "dialogue": [
+                    {
+                        "speaker": "DANNY",
+                        "id": "Saya mau kirim kartu Natal kepadanya.",
+                        "en": "I want to send a Christmas card to him."
+                    },
+                    {
+                        "speaker": "ADI",
+                        "id": "Sudah beli kartu ucapan?",
+                        "en": "Have you bought a greetings card?"
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Sudah. Tapi saya bingung, mau tulis apa.",
+                        "en": "Yes. But I'm confused, I don't know what to write."
+                    },
+                    {
+                        "speaker": "ADI",
+                        "id": "Beritahu dia bahwa sebentar lagi Danny mau pulang ke Australia.",
+                        "en": "Tell him that soon you're going home to Australia."
+                    }
+                ],
+                "grammar": {
+                    "title": "Bahwa — Complex Sentences",
+                    "explanation": "**Bahwa** = 'that' (conjunction). Links two clauses: *Beritahu dia bahwa Danny mau pulang.* (Tell him that Danny is going home.) Cannot start a sentence.",
+                    "examples": [
+                        {
+                            "id": "Saya tidak tahu bahwa dia bukan orang Indonesia.",
+                            "en": "I didn't know that she wasn't Indonesian."
+                        },
+                        {
+                            "id": "Beritahu dia bahwa saya sudah sampai.",
+                            "en": "Tell him that I've arrived."
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "Natal",
+                    "meaning": "Christmas"
+                },
+                {
+                    "word": "kartu ucapan",
+                    "meaning": "greetings card"
+                },
+                {
+                    "word": "bahwa",
+                    "meaning": "that (conjunction)"
+                },
+                {
+                    "word": "beritahu",
+                    "meaning": "to inform, tell"
+                },
+                {
+                    "word": "bingung",
+                    "meaning": "confused"
+                },
+                {
+                    "word": "perbaiki",
+                    "meaning": "to fix, improve"
+                },
+                {
+                    "word": "sebentar lagi",
+                    "meaning": "very soon"
+                }
+            ]
+        },
+        {
+            "id": "12.2",
+            "type": "lesson",
+            "title": "Percakapan telepon",
+            "titleEn": "A telephone conversation",
+            "content": {
+                "intro": "Danny calls Yosef in Papua to get his address. Practice telephone conversation phrases.",
+                "dialogue": [
+                    {
+                        "speaker": "DANNY",
+                        "id": "Halo, Yosef! Apa kabar?",
+                        "en": "Hello, Yosef! How are you?"
+                    },
+                    {
+                        "speaker": "YOSEF",
+                        "id": "Saya baik-baik saja.",
+                        "en": "I'm just fine."
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Boleh saya minta alamatnya?",
+                        "en": "May I have your address?"
+                    },
+                    {
+                        "speaker": "YOSEF",
+                        "id": "Ini alamatnya: Jalan Yos Sudarso No. 72, Manokwari, Papua Barat.",
+                        "en": "Here's the address: Jalan Yos Sudarso No. 72, Manokwari, West Papua."
+                    }
+                ]
+            },
+            "vocabulary": [
+                {
+                    "word": "halo",
+                    "meaning": "hello (phone)"
+                },
+                {
+                    "word": "alamat",
+                    "meaning": "address"
+                },
+                {
+                    "word": "dihubungi",
+                    "meaning": "to be contacted"
+                },
+                {
+                    "word": "menerima",
+                    "meaning": "to receive"
+                },
+                {
+                    "word": "gereja",
+                    "meaning": "church"
+                },
+                {
+                    "word": "misa",
+                    "meaning": "mass (church)"
+                }
+            ]
+        },
+        {
+            "id": "12.5",
+            "type": "lesson",
+            "title": "Natal di Indonesia Timur",
+            "titleEn": "Christmas in eastern Indonesia",
+            "content": {
+                "intro": "Eastern Indonesia has unique Christmas traditions, including barapen (hot stone cooking) in Papua and bamboo cannons in Flores.",
+                "sentences": [
+                    {
+                        "id": "Yosef terima kartu Natal dari Danny.",
+                        "en": "Yosef receives a Christmas card from Danny."
+                    },
+                    {
+                        "id": "Pesta Barapen adalah tradisi bakar batu untuk memasak daging babi.",
+                        "en": "Barapen is a tradition of using hot stones to cook pork."
+                    },
+                    {
+                        "id": "Sambil mendengarkan lagu Natal, Yosef berkumpul dengan keluarga.",
+                        "en": "While listening to carols, Yosef gathers with his family."
+                    }
+                ],
+                "grammar": {
+                    "title": "'Kan — Confirmation Tag",
+                    "explanation": "**'Kan** comes from bukan. Used as a tag to confirm shared knowledge: *Sudah ada isinya, 'kan?* (It has content, hasn't it?). Colloquial — spoken only.",
+                    "examples": [
+                        {
+                            "id": "'Kan sudah ada isinya.",
+                            "en": "Well, it already has content, hasn't it?"
+                        },
+                        {
+                            "id": "Besok libur, 'kan?",
+                            "en": "Tomorrow is a holiday, isn't it?"
+                        }
+                    ]
+                },
+                "culturalNote": "In Papua, traditional barapen parties use hot stones to cook pork as a sign of Christmas joy. In Flores, bamboo cannons explode on Christmas Eve."
+            },
+            "vocabulary": [
+                {
+                    "word": "tradisi",
+                    "meaning": "tradition"
+                },
+                {
+                    "word": "pesta",
+                    "meaning": "party"
+                },
+                {
+                    "word": "pohon",
+                    "meaning": "tree"
+                },
+                {
+                    "word": "lagu",
+                    "meaning": "song"
+                },
+                {
+                    "word": "bintang",
+                    "meaning": "star"
+                },
+                {
+                    "word": "kudus",
+                    "meaning": "holy"
+                },
+                {
+                    "word": "syukur",
+                    "meaning": "gratitude"
+                },
+                {
+                    "word": "kiriman",
+                    "meaning": "package, something sent"
+                }
+            ]
+        }
+    ],
+    "exercises": [
+        {
+            "id": "ex-12-1",
+            "sectionRef": "12.1",
+            "type": "multiple_choice",
+            "instruction": "Using bahwa",
+            "questions": [
+                {
+                    "question": "What does 'bahwa' mean?",
+                    "options": [
+                        "because",
+                        "that (conjunction)",
+                        "which",
+                        "but"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "question": "Can bahwa start a sentence?",
+                    "options": [
+                        "Yes, always",
+                        "No, never",
+                        "Only in questions",
+                        "Only informally"
+                    ],
+                    "answer": 1
+                }
+            ]
+        },
+        {
+            "id": "ex-12-2",
+            "sectionRef": "12.2",
+            "type": "matching",
+            "instruction": "Match phone conversation phrases.",
+            "pairs": [
+                {
+                    "left": "Apa kabar?",
+                    "right": "How are you?"
+                },
+                {
+                    "left": "Baik-baik saja",
+                    "right": "I'm fine"
+                },
+                {
+                    "left": "Boleh saya minta alamatnya?",
+                    "right": "May I have the address?"
+                },
+                {
+                    "left": "Halo",
+                    "right": "Hello"
+                }
+            ]
+        },
+        {
+            "id": "ex-12-3",
+            "sectionRef": "12.5",
+            "type": "fill_blank",
+            "instruction": "Complete the sentences about Christmas in Indonesia.",
+            "questions": [
+                {
+                    "sentence": "Pesta _____ adalah tradisi bakar batu di Papua.",
+                    "answer": "Barapen",
+                    "hint": "hot stone cooking"
+                },
+                {
+                    "sentence": "Yosef berkumpul dengan _____ merayakan Natal.",
+                    "answer": "keluarga",
+                    "hint": "family"
+                }
+            ]
+        }
+    ],
+    "endOfUnitVocabulary": [
+        {
+            "word": "Natal",
+            "meaning": "Christmas"
+        },
+        {
+            "word": "kartu ucapan",
+            "meaning": "greetings card"
+        },
+        {
+            "word": "bahwa",
+            "meaning": "that (conjunction)"
+        },
+        {
+            "word": "beritahu",
+            "meaning": "to inform"
+        },
+        {
+            "word": "alamat",
+            "meaning": "address"
+        },
+        {
+            "word": "halo",
+            "meaning": "hello"
+        },
+        {
+            "word": "menerima",
+            "meaning": "to receive"
+        },
+        {
+            "word": "tradisi",
+            "meaning": "tradition"
+        },
+        {
+            "word": "pesta",
+            "meaning": "party"
+        },
+        {
+            "word": "lagu",
+            "meaning": "song"
+        },
+        {
+            "word": "bintang",
+            "meaning": "star"
+        },
+        {
+            "word": "kudus",
+            "meaning": "holy"
+        },
+        {
+            "word": "syukur",
+            "meaning": "gratitude"
+        },
+        {
+            "word": "pohon",
+            "meaning": "tree"
+        }
+    ]
+}

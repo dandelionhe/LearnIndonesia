@@ -1,0 +1,356 @@
+{
+    "id": 11,
+    "title": "Ayo, Bung!",
+    "subtitle": "Let's Go, Bro!",
+    "sections": [
+        {
+            "id": "11.1",
+            "type": "lesson",
+            "title": "Taman kota",
+            "titleEn": "City parks",
+            "content": {
+                "intro": "Surabaya is known as Kota Pahlawan (City of Heroes). The mayor uses social media to interact with citizens about city improvements.",
+                "dialogue": [
+                    {
+                        "speaker": "WALIKOTA",
+                        "id": "Kita sudah punya taman kota lagi! Silakan gunakan dengan baik.",
+                        "en": "We have a new city park! Please use it well."
+                    },
+                    {
+                        "speaker": "AGUS",
+                        "id": "Terima kasih atas usahanya membuat Surabaya lebih ramah.",
+                        "en": "Thank you for making Surabaya friendlier."
+                    },
+                    {
+                        "speaker": "WAHYU",
+                        "id": "Saya sedikit kecewa karena terlalu banyak pedagang kaki lima.",
+                        "en": "I'm disappointed because there are too many street vendors."
+                    },
+                    {
+                        "speaker": "WALIKOTA",
+                        "id": "Terima kasih atas laporannya. Saya akan segera meminta petugas bertindak.",
+                        "en": "Thank you for your report. I'll immediately ask the officer to act."
+                    }
+                ],
+                "grammar": {
+                    "title": "Mohon — Polite Requests",
+                    "explanation": "**Mohon** is a polite form of minta (to ask), often followed by a passive di- verb: Mohon diatur! (Please regulate it!), Mohon dibantu! (Please help out!).",
+                    "examples": [
+                        {
+                            "id": "Mohon diatur!",
+                            "en": "Please see that it is regulated!"
+                        },
+                        {
+                            "id": "Mohon dijaga.",
+                            "en": "Please take care of it."
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "masyarakat",
+                    "meaning": "community"
+                },
+                {
+                    "word": "fasilitas",
+                    "meaning": "facilities"
+                },
+                {
+                    "word": "kecewa",
+                    "meaning": "disappointed"
+                },
+                {
+                    "word": "pengunjung",
+                    "meaning": "visitor"
+                },
+                {
+                    "word": "pedagang kaki lima",
+                    "meaning": "street vendor"
+                },
+                {
+                    "word": "laporan",
+                    "meaning": "report"
+                },
+                {
+                    "word": "petugas",
+                    "meaning": "officer"
+                },
+                {
+                    "word": "bertindak",
+                    "meaning": "to take action"
+                }
+            ]
+        },
+        {
+            "id": "11.3",
+            "type": "lesson",
+            "title": "Bung Tomo dan Surabaya",
+            "titleEn": "Bung Tomo and the Battle of Surabaya",
+            "content": {
+                "intro": "Sutomo (Bung Tomo) is a national hero associated with the Battle of Surabaya on November 10, 1945, commemorated as Hari Pahlawan (Heroes' Day).",
+                "sentences": [
+                    {
+                        "id": "Bung Tomo adalah pahlawan yang lahir di Surabaya.",
+                        "en": "Bung Tomo was a hero born in Surabaya."
+                    },
+                    {
+                        "id": "Dia menjadi tokoh penting dalam pertempuran 10 November 1945.",
+                        "en": "He was an important figure in the battle of November 10, 1945."
+                    },
+                    {
+                        "id": "Dia pernah bekerja sebagai wartawan di sebuah surat kabar.",
+                        "en": "He once worked as a reporter for a newspaper."
+                    }
+                ],
+                "grammar": {
+                    "title": "Ke-an Nouns",
+                    "explanation": "The **ke-an** form creates abstract nouns: kemerdekaan (freedom, from merdeka), kejadian (incident, from jadi), kehidupan (life, from hidup). Some ke-an words mean 'suffering from': kedinginan (too cold), kepanasan (too hot).",
+                    "examples": [
+                        {
+                            "id": "kemerdekaan",
+                            "en": "freedom (from merdeka)"
+                        },
+                        {
+                            "id": "kewartawanan",
+                            "en": "journalism (from wartawan)"
+                        },
+                        {
+                            "id": "kedinginan",
+                            "en": "suffering from cold (from dingin)"
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "pertempuran",
+                    "meaning": "battle"
+                },
+                {
+                    "word": "wartawan",
+                    "meaning": "reporter"
+                },
+                {
+                    "word": "surat kabar",
+                    "meaning": "newspaper"
+                },
+                {
+                    "word": "bendera",
+                    "meaning": "flag"
+                },
+                {
+                    "word": "semangat",
+                    "meaning": "spirit"
+                },
+                {
+                    "word": "tentara",
+                    "meaning": "soldier"
+                },
+                {
+                    "word": "dahsyat",
+                    "meaning": "powerful"
+                }
+            ]
+        },
+        {
+            "id": "11.5",
+            "type": "lesson",
+            "title": "Peribahasa",
+            "titleEn": "Sayings and proverbs",
+            "content": {
+                "intro": "Indonesian proverbs (peribahasa) are commonly displayed on street banners. Learn five popular sayings.",
+                "sentences": [
+                    {
+                        "id": "Bersatu kita teguh, bercerai kita runtuh.",
+                        "en": "United we stand, divided we fall."
+                    },
+                    {
+                        "id": "Sedia payung sebelum hujan.",
+                        "en": "Be prepared for a rainy day."
+                    },
+                    {
+                        "id": "Sedikit demi sedikit lama-lama menjadi bukit.",
+                        "en": "Little by little, over time, becomes a hill."
+                    },
+                    {
+                        "id": "Di mana bumi dipijak, di situ langit dijunjung.",
+                        "en": "When in Rome, do as the Romans do."
+                    }
+                ]
+            },
+            "vocabulary": [
+                {
+                    "word": "teguh",
+                    "meaning": "strong, firm"
+                },
+                {
+                    "word": "bercerai",
+                    "meaning": "divided"
+                },
+                {
+                    "word": "runtuh",
+                    "meaning": "to collapse"
+                },
+                {
+                    "word": "sedia",
+                    "meaning": "to prepare"
+                },
+                {
+                    "word": "sedikit",
+                    "meaning": "a little"
+                },
+                {
+                    "word": "bukit",
+                    "meaning": "hill"
+                },
+                {
+                    "word": "bumi",
+                    "meaning": "earth"
+                },
+                {
+                    "word": "langit",
+                    "meaning": "sky"
+                }
+            ]
+        }
+    ],
+    "exercises": [
+        {
+            "id": "ex-11-1",
+            "sectionRef": "11.3",
+            "type": "matching",
+            "instruction": "Match the ke-an nouns to their meanings.",
+            "pairs": [
+                {
+                    "left": "kemerdekaan",
+                    "right": "freedom, independence"
+                },
+                {
+                    "left": "kejadian",
+                    "right": "incident"
+                },
+                {
+                    "left": "kehidupan",
+                    "right": "life"
+                },
+                {
+                    "left": "kedinginan",
+                    "right": "suffering from cold"
+                },
+                {
+                    "left": "kepanasan",
+                    "right": "suffering from heat"
+                }
+            ]
+        },
+        {
+            "id": "ex-11-2",
+            "sectionRef": "11.5",
+            "type": "multiple_choice",
+            "instruction": "Indonesian proverbs",
+            "questions": [
+                {
+                    "question": "What does 'Sedia payung sebelum hujan' mean?",
+                    "options": [
+                        "Buy an umbrella",
+                        "Be prepared",
+                        "It will rain",
+                        "Stay inside"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "question": "Which proverb means 'United we stand, divided we fall'?",
+                    "options": [
+                        "Sedikit demi sedikit...",
+                        "Bersatu kita teguh...",
+                        "Di mana bumi dipijak...",
+                        "Sedia payung..."
+                    ],
+                    "answer": 1
+                }
+            ]
+        },
+        {
+            "id": "ex-11-3",
+            "sectionRef": "11.1",
+            "type": "fill_blank",
+            "instruction": "Complete with the correct word.",
+            "questions": [
+                {
+                    "sentence": "_____ diatur! (Please see that it is regulated!)",
+                    "answer": "Mohon",
+                    "hint": "polite form of minta"
+                },
+                {
+                    "sentence": "Terima kasih _____ laporannya. (Thank you for the report.)",
+                    "answer": "atas",
+                    "hint": "for (used with terima kasih)"
+                }
+            ]
+        }
+    ],
+    "endOfUnitVocabulary": [
+        {
+            "word": "masyarakat",
+            "meaning": "community"
+        },
+        {
+            "word": "kecewa",
+            "meaning": "disappointed"
+        },
+        {
+            "word": "pengunjung",
+            "meaning": "visitor"
+        },
+        {
+            "word": "pertempuran",
+            "meaning": "battle"
+        },
+        {
+            "word": "wartawan",
+            "meaning": "reporter"
+        },
+        {
+            "word": "bendera",
+            "meaning": "flag"
+        },
+        {
+            "word": "semangat",
+            "meaning": "spirit"
+        },
+        {
+            "word": "kemerdekaan",
+            "meaning": "independence"
+        },
+        {
+            "word": "kehidupan",
+            "meaning": "life"
+        },
+        {
+            "word": "teguh",
+            "meaning": "strong, firm"
+        },
+        {
+            "word": "sedia",
+            "meaning": "to prepare"
+        },
+        {
+            "word": "peribahasa",
+            "meaning": "proverb"
+        },
+        {
+            "word": "mohon",
+            "meaning": "to request (polite)"
+        },
+        {
+            "word": "laporan",
+            "meaning": "report"
+        },
+        {
+            "word": "segera",
+            "meaning": "immediately"
+        }
+    ]
+}

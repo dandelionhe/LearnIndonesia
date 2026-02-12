@@ -1,0 +1,414 @@
+{
+    "id": 7,
+    "title": "Ramadhan dan Idul Fitri",
+    "subtitle": "Fasting Month and Eid-Ul-Fitr",
+    "sections": [
+        {
+            "id": "7.1",
+            "type": "lesson",
+            "title": "Menyambut Ramadhan",
+            "titleEn": "Welcoming Ramadan",
+            "content": {
+                "intro": "Ramadan is a very special month for Muslims. The family prepares with pre-dawn meals, mosque visits, and community activities.",
+                "sentences": [
+                    {
+                        "id": "Ibu pergi ke pasar untuk membeli makanan.",
+                        "en": "Mother goes to the market to buy food."
+                    },
+                    {
+                        "id": "Adi ikut kuliah subuh di mesjid terdekat.",
+                        "en": "Adi goes to the dawn sermon at the nearest mosque."
+                    },
+                    {
+                        "id": "Ayah membersihkan mushola untuk sholat taraweh.",
+                        "en": "Father cleans the prayer room for Ramadan prayers."
+                    }
+                ],
+                "grammar": {
+                    "title": "Ter- Prefix",
+                    "explanation": "**Ter-** has two uses: (1) passive meaning where the doer is unimportant — tertulis (written), termasuk (including); (2) superlative — terdekat (nearest), tertinggi (highest).",
+                    "examples": [
+                        {
+                            "id": "tertulis",
+                            "en": "written, inscribed"
+                        },
+                        {
+                            "id": "termasuk",
+                            "en": "including"
+                        },
+                        {
+                            "id": "terdekat",
+                            "en": "nearest, closest"
+                        },
+                        {
+                            "id": "terkenal",
+                            "en": "well-known, famous"
+                        }
+                    ]
+                },
+                "culturalNote": "Indonesia is the world's largest Muslim nation. Ramadan impacts the whole country — many restaurants close during the day, offices let employees leave early to break the fast."
+            },
+            "vocabulary": [
+                {
+                    "word": "sahur",
+                    "meaning": "pre-dawn meal"
+                },
+                {
+                    "word": "membeli",
+                    "meaning": "to buy"
+                },
+                {
+                    "word": "makanan",
+                    "meaning": "food"
+                },
+                {
+                    "word": "membersihkan",
+                    "meaning": "to clean"
+                },
+                {
+                    "word": "termasuk",
+                    "meaning": "including"
+                },
+                {
+                    "word": "terdekat",
+                    "meaning": "nearest"
+                },
+                {
+                    "word": "berpuasa",
+                    "meaning": "to fast"
+                },
+                {
+                    "word": "supaya",
+                    "meaning": "so that"
+                }
+            ]
+        },
+        {
+            "id": "7.2",
+            "type": "lesson",
+            "title": "Kegiatan selama Ramadhan",
+            "titleEn": "Activities during Ramadan",
+            "content": {
+                "intro": "Danny experiences Ramadan for the first time and learns about pasar murah (bazaars), ngabuburit (killing time before breaking the fast), and traditional food.",
+                "dialogue": [
+                    {
+                        "speaker": "DANNY",
+                        "id": "Apa itu Ramadan, Pak?",
+                        "en": "What is Ramadan?"
+                    },
+                    {
+                        "speaker": "PAK JOHAN",
+                        "id": "Ramadan sangat ditunggu oleh setiap orang Islam di dunia.",
+                        "en": "Ramadan is much-anticipated by every Muslim in the world."
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Mengapa banyak orang keluar sore hari?",
+                        "en": "Why do lots of people go out in the afternoon?"
+                    },
+                    {
+                        "speaker": "PAK JOHAN",
+                        "id": "Itu karena adanya ngabuburit.",
+                        "en": "That's because of the ngabuburit tradition."
+                    }
+                ],
+                "grammar": {
+                    "title": "Mengapa and Karena",
+                    "explanation": "**Mengapa** = why. **Karena** = because. Indonesians often ask a rhetorical question then answer it: Mengapa...? Karena...",
+                    "examples": [
+                        {
+                            "id": "Mengapa banyak orang keluar? Karena adanya ngabuburit.",
+                            "en": "Why do people go out? Because of ngabuburit."
+                        },
+                        {
+                            "id": "Mengapa sekolah diliburkan? Karena kita ingin anak-anak beristirahat.",
+                            "en": "Why are schools on holiday? Because we want children to rest."
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "mengapa",
+                    "meaning": "why"
+                },
+                {
+                    "word": "karena",
+                    "meaning": "because"
+                },
+                {
+                    "word": "setiap",
+                    "meaning": "every, each"
+                },
+                {
+                    "word": "murah",
+                    "meaning": "cheap"
+                },
+                {
+                    "word": "mudah",
+                    "meaning": "easy"
+                },
+                {
+                    "word": "menjual",
+                    "meaning": "to sell"
+                },
+                {
+                    "word": "buka puasa",
+                    "meaning": "break the fast"
+                },
+                {
+                    "word": "harga",
+                    "meaning": "price"
+                }
+            ]
+        },
+        {
+            "id": "7.6",
+            "type": "lesson",
+            "title": "Makanan dan minuman",
+            "titleEn": "Food and drink during Ramadan",
+            "content": {
+                "intro": "Learn food and drink vocabulary through a shopping dialogue at a Ramadan food stall.",
+                "dialogue": [
+                    {
+                        "speaker": "IBU RATNA",
+                        "id": "Silakan, mau beli apa?",
+                        "en": "What would you like to buy?"
+                    },
+                    {
+                        "speaker": "NAUFAL",
+                        "id": "Saya mau beli makanan untuk buka puasa.",
+                        "en": "I'd like to buy food to break the fast."
+                    },
+                    {
+                        "speaker": "IBU RATNA",
+                        "id": "Itu kolak pisang. Harganya murah, hanya lima belas ribu rupiah.",
+                        "en": "That's kolak pisang. It's cheap, only fifteen thousand rupiah."
+                    },
+                    {
+                        "speaker": "NAUFAL",
+                        "id": "Makanan ini dibuat dari apa?",
+                        "en": "What is this food made from?"
+                    },
+                    {
+                        "speaker": "IBU RATNA",
+                        "id": "Kolak dibuat dari pisang, gula merah, dan santan.",
+                        "en": "Kolak is made from banana, brown sugar, and coconut milk."
+                    }
+                ]
+            },
+            "vocabulary": [
+                {
+                    "word": "minuman",
+                    "meaning": "drink"
+                },
+                {
+                    "word": "pisang",
+                    "meaning": "banana"
+                },
+                {
+                    "word": "gula",
+                    "meaning": "sugar"
+                },
+                {
+                    "word": "santan",
+                    "meaning": "coconut milk"
+                },
+                {
+                    "word": "bubur",
+                    "meaning": "porridge"
+                },
+                {
+                    "word": "teh",
+                    "meaning": "tea"
+                },
+                {
+                    "word": "goreng",
+                    "meaning": "fried"
+                },
+                {
+                    "word": "manis",
+                    "meaning": "sweet"
+                }
+            ]
+        }
+    ],
+    "exercises": [
+        {
+            "id": "ex-7-1",
+            "sectionRef": "7.1",
+            "type": "matching",
+            "instruction": "Match the ter- words to their meanings.",
+            "pairs": [
+                {
+                    "left": "tertulis",
+                    "right": "written"
+                },
+                {
+                    "left": "terkenal",
+                    "right": "famous"
+                },
+                {
+                    "left": "terdekat",
+                    "right": "nearest"
+                },
+                {
+                    "left": "termasuk",
+                    "right": "including"
+                },
+                {
+                    "left": "terdiri",
+                    "right": "consisting"
+                }
+            ]
+        },
+        {
+            "id": "ex-7-2",
+            "sectionRef": "7.2",
+            "type": "multiple_choice",
+            "instruction": "Ramadan vocabulary",
+            "questions": [
+                {
+                    "question": "What does 'buka puasa' mean?",
+                    "options": [
+                        "start fasting",
+                        "break the fast",
+                        "buy food",
+                        "go to mosque"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "question": "What is 'mengapa'?",
+                    "options": [
+                        "because",
+                        "when",
+                        "why",
+                        "where"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "question": "What does 'murah' mean?",
+                    "options": [
+                        "expensive",
+                        "cheap",
+                        "delicious",
+                        "sweet"
+                    ],
+                    "answer": 1
+                }
+            ]
+        },
+        {
+            "id": "ex-7-3",
+            "sectionRef": "7.6",
+            "type": "matching",
+            "instruction": "Match the food and drink items.",
+            "pairs": [
+                {
+                    "left": "kolak pisang",
+                    "right": "banana pudding"
+                },
+                {
+                    "left": "santan",
+                    "right": "coconut milk"
+                },
+                {
+                    "left": "gula merah",
+                    "right": "brown sugar"
+                },
+                {
+                    "left": "bubur",
+                    "right": "porridge"
+                },
+                {
+                    "left": "teh manis",
+                    "right": "sweet tea"
+                }
+            ]
+        }
+    ],
+    "endOfUnitVocabulary": [
+        {
+            "word": "sahur",
+            "meaning": "pre-dawn meal"
+        },
+        {
+            "word": "berpuasa",
+            "meaning": "to fast"
+        },
+        {
+            "word": "buka puasa",
+            "meaning": "break the fast"
+        },
+        {
+            "word": "membeli",
+            "meaning": "to buy"
+        },
+        {
+            "word": "menjual",
+            "meaning": "to sell"
+        },
+        {
+            "word": "makanan",
+            "meaning": "food"
+        },
+        {
+            "word": "minuman",
+            "meaning": "drink"
+        },
+        {
+            "word": "harga",
+            "meaning": "price"
+        },
+        {
+            "word": "murah",
+            "meaning": "cheap"
+        },
+        {
+            "word": "mengapa",
+            "meaning": "why"
+        },
+        {
+            "word": "karena",
+            "meaning": "because"
+        },
+        {
+            "word": "setiap",
+            "meaning": "every"
+        },
+        {
+            "word": "termasuk",
+            "meaning": "including"
+        },
+        {
+            "word": "terdekat",
+            "meaning": "nearest"
+        },
+        {
+            "word": "terkenal",
+            "meaning": "famous"
+        },
+        {
+            "word": "pisang",
+            "meaning": "banana"
+        },
+        {
+            "word": "gula",
+            "meaning": "sugar"
+        },
+        {
+            "word": "santan",
+            "meaning": "coconut milk"
+        },
+        {
+            "word": "teh",
+            "meaning": "tea"
+        },
+        {
+            "word": "supaya",
+            "meaning": "so that"
+        }
+    ]
+}

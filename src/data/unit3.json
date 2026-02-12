@@ -1,0 +1,304 @@
+{
+    "id": 3,
+    "title": "Hari Nyepi di Bali",
+    "subtitle": "The Balinese Day of Silence",
+    "sections": [
+        {
+            "id": "3.1",
+            "type": "lesson",
+            "title": "Jalan ke Bali",
+            "titleEn": "Travel to Bali",
+            "content": {
+                "intro": "Nyoman invites Adi and Danny to his village in Bali. They discuss how to get there.",
+                "dialogue": [
+                    {
+                        "speaker": "NYOMAN",
+                        "id": "Ini desa saya.",
+                        "en": "This is my village."
+                    },
+                    {
+                        "speaker": "ADI",
+                        "id": "Di sini?",
+                        "en": "Here?"
+                    },
+                    {
+                        "speaker": "NYOMAN",
+                        "id": "Bukan, di situ, di selatan.",
+                        "en": "No, there, in the south."
+                    },
+                    {
+                        "speaker": "DANNY",
+                        "id": "Kita naik apa ke sana?",
+                        "en": "How will we get there?"
+                    },
+                    {
+                        "speaker": "NYOMAN",
+                        "id": "Dari Gilimanuk, kita naik bis.",
+                        "en": "From Gilimanuk, we'll go by bus."
+                    }
+                ],
+                "grammar": {
+                    "title": "Ini / Itu",
+                    "explanation": "**Ini** = this, **Itu** = that. In complex sentences, they come *after* the noun they describe.",
+                    "examples": [
+                        {
+                            "id": "Ini gunung.",
+                            "en": "This is a mountain."
+                        },
+                        {
+                            "id": "Gunung ini tinggi.",
+                            "en": "This mountain (is) high."
+                        },
+                        {
+                            "id": "Buku itu bagus.",
+                            "en": "That book (is) good."
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "desa",
+                    "meaning": "village"
+                },
+                {
+                    "word": "selatan",
+                    "meaning": "south"
+                },
+                {
+                    "word": "utara",
+                    "meaning": "north"
+                },
+                {
+                    "word": "sini",
+                    "meaning": "here"
+                },
+                {
+                    "word": "situ",
+                    "meaning": "there"
+                }
+            ]
+        },
+        {
+            "id": "3.3",
+            "type": "lesson",
+            "title": "Naik Kereta Api",
+            "titleEn": "Taking the train",
+            "content": {
+                "intro": "Nyoman orders tickets at the station.",
+                "sentences": [
+                    {
+                        "id": "Saya mau memesan tiket.",
+                        "en": "I want to order tickets."
+                    },
+                    {
+                        "id": "Untuk satu orang?",
+                        "en": "For one person?"
+                    },
+                    {
+                        "id": "Tidak, untuk tiga orang.",
+                        "en": "No, for three people."
+                    }
+                ],
+                "grammar": {
+                    "title": "Prefix meN-",
+                    "explanation": "**meN-** creates formal transitive verbs (verbs with objects). The 'N' changes depending on the base word (e.g., m, n, ng, ny).",
+                    "examples": [
+                        {
+                            "id": "Saya pesan tiket.",
+                            "en": "I order tickets. (Informal)"
+                        },
+                        {
+                            "id": "Saya memesan tiket.",
+                            "en": "I order tickets. (Formal)"
+                        }
+                    ]
+                }
+            },
+            "vocabulary": [
+                {
+                    "word": "pesan",
+                    "meaning": "to order"
+                },
+                {
+                    "word": "memesan",
+                    "meaning": "to order (formal)"
+                },
+                {
+                    "word": "tiket",
+                    "meaning": "ticket"
+                },
+                {
+                    "word": "kereta api",
+                    "meaning": "train"
+                }
+            ]
+        },
+        {
+            "id": "3.4",
+            "type": "lesson",
+            "title": "Hari Raya Nyepi",
+            "titleEn": "Day of Silence",
+            "content": {
+                "intro": "Nyepi is the Balinese Day of Silence. It marks the Balinese New Year (Saka calendar).",
+                "sentences": [
+                    {
+                        "id": "Orang Bali merayakan Hari Raya Nyepi.",
+                        "en": "The Balinese celebrate the Day of Silence."
+                    },
+                    {
+                        "id": "Orang tidak boleh bepergian.",
+                        "en": "People may not go out."
+                    },
+                    {
+                        "id": "Tidak boleh menyalakan api.",
+                        "en": "May not light fires."
+                    }
+                ]
+            },
+            "vocabulary": [
+                {
+                    "word": "merayakan",
+                    "meaning": "to celebrate"
+                },
+                {
+                    "word": "bepergian",
+                    "meaning": "to travel/go out"
+                },
+                {
+                    "word": "api",
+                    "meaning": "fire"
+                }
+            ]
+        }
+    ],
+    "exercises": [
+        {
+            "id": "ex-3-1",
+            "sectionRef": "3.1",
+            "type": "matching",
+            "instruction": "Match the directions.",
+            "pairs": [
+                {
+                    "left": "utara",
+                    "right": "north"
+                },
+                {
+                    "left": "selatan",
+                    "right": "south"
+                },
+                {
+                    "left": "barat",
+                    "right": "west"
+                },
+                {
+                    "left": "timur",
+                    "right": "east"
+                }
+            ]
+        },
+        {
+            "id": "ex-3-2",
+            "sectionRef": "3.1",
+            "type": "multiple_choice",
+            "instruction": "Vocabulary check",
+            "questions": [
+                {
+                    "question": "What is 'desa'?",
+                    "options": [
+                        "city",
+                        "village",
+                        "mountain",
+                        "lake"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "question": "What does 'sini' mean?",
+                    "options": [
+                        "here",
+                        "there",
+                        "where",
+                        "near"
+                    ],
+                    "answer": 0
+                }
+            ]
+        },
+        {
+            "id": "ex-3-3",
+            "sectionRef": "3.3",
+            "type": "fill_blank",
+            "instruction": "Fill in the blank.",
+            "questions": [
+                {
+                    "sentence": "Saya mau _____ tiket. (pesan)",
+                    "answer": "memesan",
+                    "hint": "formal prefix meN-"
+                }
+            ]
+        }
+    ],
+    "endOfUnitVocabulary": [
+        {
+            "word": "desa",
+            "meaning": "village"
+        },
+        {
+            "word": "selatan",
+            "meaning": "south"
+        },
+        {
+            "word": "utara",
+            "meaning": "north"
+        },
+        {
+            "word": "timur",
+            "meaning": "east"
+        },
+        {
+            "word": "barat",
+            "meaning": "west"
+        },
+        {
+            "word": "sini",
+            "meaning": "here"
+        },
+        {
+            "word": "sana",
+            "meaning": "there (far)"
+        },
+        {
+            "word": "pesan",
+            "meaning": "to order"
+        },
+        {
+            "word": "memesan",
+            "meaning": "to order (formal)"
+        },
+        {
+            "word": "kereta api",
+            "meaning": "train"
+        },
+        {
+            "word": "tiket",
+            "meaning": "ticket"
+        },
+        {
+            "word": "merayakan",
+            "meaning": "to celebrate"
+        },
+        {
+            "word": "bepergian",
+            "meaning": "to go out"
+        },
+        {
+            "word": "api",
+            "meaning": "fire"
+        },
+        {
+            "word": "nyepi",
+            "meaning": "silence"
+        }
+    ]
+}
